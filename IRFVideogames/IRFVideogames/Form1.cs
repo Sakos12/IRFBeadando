@@ -20,12 +20,17 @@ namespace IRFVideogames
         public Form1()
         {
             InitializeComponent();
+            LoadGameDataXML();
+            dataGridView1.DataSource = Games;
+        }
+        private void LoadGameDataXML()
+        {
             var xml = new XmlDocument();
             xml.Load("videogames.xml");
             foreach (XmlElement element in xml.DocumentElement)
             {
                 var game = new GameData();
-                
+
                 var firstchildElement = (XmlElement)element.ChildNodes[0];
                 game.Name = firstchildElement.InnerText;
                 var secondchildElement = (XmlElement)element.ChildNodes[1];
@@ -43,8 +48,6 @@ namespace IRFVideogames
                 game.IGNRating = double.Parse(seventhchildElement.InnerText);
                 Games.Add(game);
             }
-            dataGridView1.DataSource = Games;
-           
         }
 
         private void button1_Click(object sender, EventArgs e)
