@@ -47,6 +47,7 @@ namespace IRFVideogames
                 var seventhchildElement = (XmlElement)element.ChildNodes[6];
                 game.IGNRating = double.Parse(seventhchildElement.InnerText);
                 Games.Add(game);
+                
             }
         }
 
@@ -83,7 +84,7 @@ namespace IRFVideogames
                     sw.Write(";");
                     sw.Write(jatek.Developer);
                     sw.Write(";");
-                    sw.Write(jatek.ReleaseDate);
+                    sw.Write(jatek.ReleaseDate.ToString("yyyy/MM/dd"));
                     sw.Write(";");
                     sw.Write(jatek.Multiplayer);
                     sw.Write(";");
