@@ -15,6 +15,7 @@ namespace IRFVideogames.Abstractions
                 AutoSize = false;
                 Width = 200;
                 Height = 200;
+            Paint += Abstract_Paint;
             }
             private void Abstract_Paint(object sender, PaintEventArgs e)
             {

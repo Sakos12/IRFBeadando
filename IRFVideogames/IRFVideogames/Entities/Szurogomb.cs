@@ -8,11 +8,11 @@ using System.Threading.Tasks;
 
 namespace IRFVideogames.Entities
 {
-    public class Controller : Gombabstract
+    public class Szurogomb: Gombabstract
     {
         protected override void DrawImage(Graphics g)
         {
-            Image imageFile = Image.FromFile("Images/playstat.png");
+            Image imageFile = Image.FromFile("Images/list.png");
             g.DrawImage(imageFile, new Rectangle(0, 0, Width, Height));
         }
     }

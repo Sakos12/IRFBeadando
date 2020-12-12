@@ -31,10 +31,11 @@
             this.VideogameDataSet = new System.Data.DataSet();
             this.button1 = new System.Windows.Forms.Button();
             this.cím = new System.Windows.Forms.Label();
-            this.controller2 = new IRFVideogames.Entities.Controller();
             this.controller1 = new IRFVideogames.Entities.Controller();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
+            this.szurogomb1 = new IRFVideogames.Entities.Szurogomb();
             ((System.ComponentModel.ISupportInitialize)(this.VideogameDataSet)).BeginInit();
             this.SuspendLayout();
             // 
@@ -73,19 +74,8 @@
     " részét hivatásos bemutatni!";
             this.cím.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // controller2
-            // 
-            this.controller2.Image = global::IRFVideogames.Properties.Resources.list2;
-            this.controller2.Location = new System.Drawing.Point(998, 416);
-            this.controller2.Name = "controller2";
-            this.controller2.Size = new System.Drawing.Size(200, 200);
-            this.controller2.TabIndex = 6;
-            this.controller2.UseVisualStyleBackColor = true;
-            this.controller2.Click += new System.EventHandler(this.controller2_Click);
-            // 
             // controller1
             // 
-            this.controller1.Image = global::IRFVideogames.Properties.Resources.playstation;
             this.controller1.Location = new System.Drawing.Point(166, 441);
             this.controller1.Name = "controller1";
             this.controller1.Size = new System.Drawing.Size(200, 200);
@@ -115,15 +105,24 @@
     "ékokat!";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
+            // szurogomb1
+            // 
+            this.szurogomb1.Location = new System.Drawing.Point(1008, 430);
+            this.szurogomb1.Name = "szurogomb1";
+            this.szurogomb1.Size = new System.Drawing.Size(200, 200);
+            this.szurogomb1.TabIndex = 9;
+            this.szurogomb1.Text = "szurogomb1";
+            this.szurogomb1.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Green;
             this.ClientSize = new System.Drawing.Size(1419, 692);
+            this.Controls.Add(this.szurogomb1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.controller2);
             this.Controls.Add(this.controller1);
             this.Controls.Add(this.cím);
             this.Controls.Add(this.button1);
@@ -140,9 +139,10 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label cím;
         private Entities.Controller controller1;
-        private Entities.Controller controller2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
+        private Entities.Szurogomb szurogomb1;
     }
 }
 
