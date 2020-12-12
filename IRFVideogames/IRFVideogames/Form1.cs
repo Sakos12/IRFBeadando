@@ -20,7 +20,6 @@ namespace IRFVideogames
         public Form1()
         {
             InitializeComponent();
-            
             var xml = new XmlDocument();
             xml.Load("videogames.xml");
             foreach (XmlElement element in xml.DocumentElement)
@@ -46,6 +45,12 @@ namespace IRFVideogames
             }
             dataGridView1.DataSource = Games;
            
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            SaveFileDialog sfd = new SaveFileDialog();
+               
         }
     }
 }
