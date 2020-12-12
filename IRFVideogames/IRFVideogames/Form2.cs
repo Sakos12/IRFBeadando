@@ -48,5 +48,17 @@ namespace IRFVideogames
 
             }
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            foreach (GameData game in Games)
+            {
+                 if (game.IGNRating < 8.0 )
+                {
+                    Games.Remove(game);
+                }
+            }
+            dataGridView1.DataSource = Games;
+        }
     }
 }
