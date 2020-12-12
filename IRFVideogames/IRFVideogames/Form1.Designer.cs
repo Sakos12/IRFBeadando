@@ -31,8 +31,10 @@
             this.VideogameDataSet = new System.Data.DataSet();
             this.button1 = new System.Windows.Forms.Button();
             this.cím = new System.Windows.Forms.Label();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
+            this.controller2 = new IRFVideogames.Entities.Controller();
+            this.controller1 = new IRFVideogames.Entities.Controller();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.VideogameDataSet)).BeginInit();
             this.SuspendLayout();
             // 
@@ -49,7 +51,7 @@
             this.button1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Times New Roman", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button1.Location = new System.Drawing.Point(496, 561);
+            this.button1.Location = new System.Drawing.Point(589, 565);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(209, 76);
             this.button1.TabIndex = 1;
@@ -63,7 +65,7 @@
             this.cím.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.cím.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cím.Font = new System.Drawing.Font("Times New Roman", 25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.cím.Location = new System.Drawing.Point(76, 33);
+            this.cím.Location = new System.Drawing.Point(147, 33);
             this.cím.Name = "cím";
             this.cím.Size = new System.Drawing.Size(1061, 164);
             this.cím.TabIndex = 2;
@@ -71,25 +73,47 @@
     " részét hivatásos bemutatni!";
             this.cím.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // button2
+            // controller2
             // 
-            this.button2.Location = new System.Drawing.Point(249, 315);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 3;
-            this.button2.Text = "button2";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            this.controller2.Image = global::IRFVideogames.Properties.Resources.list2;
+            this.controller2.Location = new System.Drawing.Point(998, 416);
+            this.controller2.Name = "controller2";
+            this.controller2.Size = new System.Drawing.Size(200, 200);
+            this.controller2.TabIndex = 6;
+            this.controller2.UseVisualStyleBackColor = true;
+            this.controller2.Click += new System.EventHandler(this.controller2_Click);
             // 
-            // button3
+            // controller1
             // 
-            this.button3.Location = new System.Drawing.Point(775, 328);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(75, 23);
-            this.button3.TabIndex = 4;
-            this.button3.Text = "button3";
-            this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
+            this.controller1.Image = global::IRFVideogames.Properties.Resources.playstation;
+            this.controller1.Location = new System.Drawing.Point(166, 441);
+            this.controller1.Name = "controller1";
+            this.controller1.Size = new System.Drawing.Size(200, 200);
+            this.controller1.TabIndex = 5;
+            this.controller1.UseVisualStyleBackColor = true;
+            this.controller1.Click += new System.EventHandler(this.controller1_Click);
+            // 
+            // label1
+            // 
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.label1.Location = new System.Drawing.Point(67, 232);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(432, 137);
+            this.label1.TabIndex = 7;
+            this.label1.Text = "Kattints ide, ha csupán meg szeretnéd nézni a gyűjteményt minden módosítás, vagy " +
+    "szűrés nélkül!";
+            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // label2
+            // 
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.label2.Location = new System.Drawing.Point(889, 243);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(432, 137);
+            this.label2.TabIndex = 8;
+            this.label2.Text = "Kattints ide, ha szeretnéd megjelenési évek, illetve névszerint szűrni a videóját" +
+    "ékokat!";
+            this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // Form1
             // 
@@ -97,8 +121,10 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Green;
             this.ClientSize = new System.Drawing.Size(1419, 692);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.controller2);
+            this.Controls.Add(this.controller1);
             this.Controls.Add(this.cím);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
@@ -113,8 +139,10 @@
         private System.Data.DataSet VideogameDataSet;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label cím;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
+        private Entities.Controller controller1;
+        private Entities.Controller controller2;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
     }
 }
 

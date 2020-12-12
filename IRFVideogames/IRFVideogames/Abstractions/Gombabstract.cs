@@ -13,8 +13,8 @@ namespace IRFVideogames.Abstractions
             public Gombabstract()
             {
                 AutoSize = false;
-                Width = 100;
-                Height = 100;
+                Width = 200;
+                Height = 200;
             }
             private void Abstract_Paint(object sender, PaintEventArgs e)
             {
@@ -22,6 +22,7 @@ namespace IRFVideogames.Abstractions
             }
 
             protected abstract void DrawImage(Graphics g);
-        }
     }
+
 }
+
