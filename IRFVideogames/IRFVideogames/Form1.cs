@@ -36,7 +36,6 @@ namespace IRFVideogames
                 var fourthchildElement = (XmlElement)element.ChildNodes[3];
                 game.Developer = fourthchildElement.InnerText;
                 var fifthchildElement = (XmlElement)element.ChildNodes[4];
-                /*game.ReleaseDate = DateTime.Parse(fifthchildElement.InnerText);*/
                 double d = double.Parse(fifthchildElement.InnerText);
                 game.ReleaseDate = DateTime.FromOADate(d);
                 var sixthchildElement = (XmlElement)element.ChildNodes[5];
