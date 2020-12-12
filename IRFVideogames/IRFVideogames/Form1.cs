@@ -56,8 +56,36 @@ namespace IRFVideogames
             if (sfd.ShowDialog() != DialogResult.OK) return;
             using (StreamWriter sw = new StreamWriter(sfd.FileName, false, Encoding.UTF8))
             {
+                sw.Write("Name");
+                sw.Write(";");
+                sw.Write("Copies Sold in Millions");
+                sw.Write(";");
+                sw.Write("Publisher");
+                sw.Write(";");
+                sw.Write("Developer");
+                sw.Write(";");
+                sw.Write("Release Date");
+                sw.Write(";");
+                sw.Write("Multiplayer");
+                sw.Write(";");
+                sw.Write("IGN Rating");
+                sw.WriteLine();
                 foreach (var jatek in Games)
                 {
+                    sw.Write(jatek.Name);
+                    sw.Write(";");
+                    sw.Write(jatek.CopiesSold);
+                    sw.Write(";");
+                    sw.Write(jatek.Publisher);
+                    sw.Write(";");
+                    sw.Write(jatek.Developer);
+                    sw.Write(";");
+                    sw.Write(jatek.ReleaseDate);
+                    sw.Write(";");
+                    sw.Write(jatek.Multiplayer);
+                    sw.Write(";");
+                    sw.Write(jatek.IGNRating);
+                    sw.WriteLine();
 
                 }
             }
