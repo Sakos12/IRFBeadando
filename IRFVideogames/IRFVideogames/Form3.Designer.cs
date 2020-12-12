@@ -30,44 +30,58 @@
         {
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.gamenamebox = new System.Windows.Forms.TextBox();
-            this.gamelistBox = new System.Windows.Forms.ListBox();
+            this.yearlistBox = new System.Windows.Forms.ListBox();
+            this.label1 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(193, 0);
+            this.dataGridView1.Location = new System.Drawing.Point(245, 71);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(1024, 772);
+            this.dataGridView1.Size = new System.Drawing.Size(959, 772);
             this.dataGridView1.TabIndex = 0;
             // 
             // gamenamebox
             // 
-            this.gamenamebox.Location = new System.Drawing.Point(13, 13);
+            this.gamenamebox.Location = new System.Drawing.Point(12, 473);
             this.gamenamebox.Name = "gamenamebox";
             this.gamenamebox.Size = new System.Drawing.Size(156, 22);
             this.gamenamebox.TabIndex = 1;
             this.gamenamebox.TextChanged += new System.EventHandler(this.gamenamebox_TextChanged);
             // 
-            // gamelistBox
+            // yearlistBox
             // 
-            this.gamelistBox.FormattingEnabled = true;
-            this.gamelistBox.ItemHeight = 16;
-            this.gamelistBox.Location = new System.Drawing.Point(13, 71);
-            this.gamelistBox.Name = "gamelistBox";
-            this.gamelistBox.Size = new System.Drawing.Size(156, 340);
-            this.gamelistBox.TabIndex = 2;
-            this.gamelistBox.SelectedIndexChanged += new System.EventHandler(this.gamelistBox_SelectedIndexChanged);
+            this.yearlistBox.FormattingEnabled = true;
+            this.yearlistBox.ItemHeight = 16;
+            this.yearlistBox.Location = new System.Drawing.Point(12, 71);
+            this.yearlistBox.Name = "yearlistBox";
+            this.yearlistBox.Size = new System.Drawing.Size(156, 340);
+            this.yearlistBox.TabIndex = 2;
+            this.yearlistBox.SelectedIndexChanged += new System.EventHandler(this.gamelistBox_SelectedIndexChanged);
+            // 
+            // label1
+            // 
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.label1.Location = new System.Drawing.Point(331, 9);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(692, 59);
+            this.label1.TabIndex = 3;
+            this.label1.Text = "Itt megjelenési év szerint tudod szűrni a felvett videójátékokat, illetve név sze" +
+    "rint is. Az évjáratot a listából tudod kiválasztani, a nevet pedig önállóan kell" +
+    " begépelni a szövegdobozba.";
+            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // Form3
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1216, 771);
-            this.Controls.Add(this.gamelistBox);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.yearlistBox);
             this.Controls.Add(this.gamenamebox);
             this.Controls.Add(this.dataGridView1);
             this.Name = "Form3";
@@ -82,6 +96,7 @@
 
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.TextBox gamenamebox;
-        private System.Windows.Forms.ListBox gamelistBox;
+        private System.Windows.Forms.ListBox yearlistBox;
+        private System.Windows.Forms.Label label1;
     }
 }
