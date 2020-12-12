@@ -49,6 +49,9 @@
     <Compile Include="Abstractions\Gombabstract.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="Entities\Controller.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="Entities\GameData.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
@@ -102,6 +105,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\playstation.jpg" />
     <Content Include="videogames.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
