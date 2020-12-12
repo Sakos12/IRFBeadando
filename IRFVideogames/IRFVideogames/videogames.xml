@@ -1,2017 +1,2234 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-	<record>
+<Games>
+	<Game>
 		<Name>Starcraft II: Wings of Liberty</Name>
-		<CopiesSoldinMillions>11</CopiesSoldinMillions>
+		<CopiesSoldinMillions>6,6</CopiesSoldinMillions>
 		<Publisher>Blizzard Entertainment</Publisher>
 		<Developer>Blizzard Entertainment</Developer>
 		<ReleaseDate>40386</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Diablo II</Name>
-		<CopiesSoldinMillions>3.58</CopiesSoldinMillions>
+		<CopiesSoldinMillions>34,5</CopiesSoldinMillions>
 		<Publisher>Blizzard Entertainment</Publisher>
 		<Developer>Blizzard North</Developer>
 		<ReleaseDate>36706</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.3</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,3</IGNRating>
+	</Game>
+	<Game>
 		<Name>Diablo III</Name>
-		<CopiesSoldinMillions>4.95</CopiesSoldinMillions>
+		<CopiesSoldinMillions>30</CopiesSoldinMillions>
 		<Publisher>Blizzard Entertainment</Publisher>
 		<Developer>Blizzard Entertainment</Developer>
 		<ReleaseDate>41044</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Counter-Strike</Name>
-		<CopiesSoldinMillions>5.74</CopiesSoldinMillions>
+		<CopiesSoldinMillions>11,36</CopiesSoldinMillions>
 		<Publisher>Valve Corporation</Publisher>
 		<Developer>Valve Corporation</Developer>
 		<ReleaseDate>36838</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.9</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,9</IGNRating>
+	</Game>
+	<Game>
 		<Name>Counter-Strike: Source</Name>
-		<CopiesSoldinMillions>2.4</CopiesSoldinMillions>
+		<CopiesSoldinMillions>14,11</CopiesSoldinMillions>
 		<Publisher>Valve Corporation</Publisher>
 		<Developer>Valve Corporation</Developer>
 		<ReleaseDate>38292</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>NULL</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9</IGNRating>
+	</Game>
+	<Game>
 		<Name>Counter-Strike: Global Offensive</Name>
-		<CopiesSoldinMillions>6.11</CopiesSoldinMillions>
+		<CopiesSoldinMillions>16,43</CopiesSoldinMillions>
 		<Publisher>Valve Corporation</Publisher>
 		<Developer>Valve Corporation</Developer>
 		<ReleaseDate>41142</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>8</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>The Sims</Name>
-		<CopiesSoldinMillions>6.75</CopiesSoldinMillions>
+		<CopiesSoldinMillions>16</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>Maxis</Developer>
 		<ReleaseDate>36560</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>The Sims 2</Name>
-		<CopiesSoldinMillions>6.22</CopiesSoldinMillions>
+		<CopiesSoldinMillions>6</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>Maxis</Developer>
 		<ReleaseDate>38244</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.4</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,4</IGNRating>
+	</Game>
+	<Game>
 		<Name>The Sims 3</Name>
-		<CopiesSoldinMillions>3.38</CopiesSoldinMillions>
+		<CopiesSoldinMillions>10</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>Maxis</Developer>
 		<ReleaseDate>39966</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.1</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,1</IGNRating>
+	</Game>
+	<Game>
 		<Name>The Sims 4</Name>
-		<CopiesSoldinMillions>3</CopiesSoldinMillions>
+		<CopiesSoldinMillions>4,3</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>Maxis</Developer>
 		<ReleaseDate>41886</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>7.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>7,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Deus Ex</Name>
-		<CopiesSoldinMillions>12</CopiesSoldinMillions>
+		<CopiesSoldinMillions>1</CopiesSoldinMillions>
 		<Publisher>Eidos Interactive</Publisher>
 		<Developer>Ion Storm</Developer>
 		<ReleaseDate>36700</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.3</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,3</IGNRating>
+	</Game>
+	<Game>
 		<Name>Grand Theft Auto III</Name>
-		<CopiesSoldinMillions>1</CopiesSoldinMillions>
+		<CopiesSoldinMillions>14,5</CopiesSoldinMillions>
 		<Publisher>Rockstar Games</Publisher>
 		<Developer>Rockstar North Limited</Developer>
 		<ReleaseDate>37186</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.6</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,6</IGNRating>
+	</Game>
+	<Game>
 		<Name>Grand Theft Auto: Vice City</Name>
-		<CopiesSoldinMillions>3.02</CopiesSoldinMillions>
+		<CopiesSoldinMillions>17,5</CopiesSoldinMillions>
 		<Publisher>Rockstar Games</Publisher>
 		<Developer>Rockstar North Limited</Developer>
 		<ReleaseDate>37556</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.7</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,7</IGNRating>
+	</Game>
+	<Game>
 		<Name>Grand Theft Auto: San Andreas</Name>
-		<CopiesSoldinMillions>2.81</CopiesSoldinMillions>
+		<CopiesSoldinMillions>21,5</CopiesSoldinMillions>
 		<Publisher>Rockstar Games</Publisher>
 		<Developer>Rockstar North Limited</Developer>
 		<ReleaseDate>38286</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.9</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,9</IGNRating>
+	</Game>
+	<Game>
 		<Name>Grand Theft Auto IV</Name>
-		<CopiesSoldinMillions>3.02</CopiesSoldinMillions>
+		<CopiesSoldinMillions>25</CopiesSoldinMillions>
 		<Publisher>Rockstar Games</Publisher>
 		<Developer>Rockstar North Limited</Developer>
 		<ReleaseDate>39567</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>10</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Grand Theft Auto V</Name>
-		<CopiesSoldinMillions>13.5</CopiesSoldinMillions>
+		<CopiesSoldinMillions>110</CopiesSoldinMillions>
 		<Publisher>Rockstar Games</Publisher>
 		<Developer>Rockstar North Limited</Developer>
 		<ReleaseDate>41534</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>10</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Red Dead Redemption</Name>
-		<CopiesSoldinMillions>5.77</CopiesSoldinMillions>
+		<CopiesSoldinMillions>15</CopiesSoldinMillions>
 		<Publisher>Rockstar Games</Publisher>
 		<Developer>Rockstar San Diego</Developer>
 		<ReleaseDate>40316</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.8</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,8</IGNRating>
+	</Game>
+	<Game>
 		<Name>Red Dead Redemption 2</Name>
-		<CopiesSoldinMillions>6.95</CopiesSoldinMillions>
+		<CopiesSoldinMillions>29</CopiesSoldinMillions>
 		<Publisher>Rockstar Games</Publisher>
 		<Developer>Rockstar San Diego</Developer>
 		<ReleaseDate>43399</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>10</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Halo: Combat Evolved</Name>
-		<CopiesSoldinMillions>1.72</CopiesSoldinMillions>
+		<CopiesSoldinMillions>20</CopiesSoldinMillions>
 		<Publisher>Xbox Game Studios</Publisher>
 		<Developer>Bungie</Developer>
 		<ReleaseDate>37179</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.7</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,7</IGNRating>
+	</Game>
+	<Game>
 		<Name>Halo 2</Name>
-		<CopiesSoldinMillions>8.3</CopiesSoldinMillions>
+		<CopiesSoldinMillions>9</CopiesSoldinMillions>
 		<Publisher>Xbox Game Studios</Publisher>
 		<Developer>Bungie</Developer>
 		<ReleaseDate>38269</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.8</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,8</IGNRating>
+	</Game>
+	<Game>
 		<Name>Halo 3</Name>
-		<CopiesSoldinMillions>6.5</CopiesSoldinMillions>
+		<CopiesSoldinMillions>14,5</CopiesSoldinMillions>
 		<Publisher>Xbox Game Studios</Publisher>
 		<Developer>Bungie</Developer>
 		<ReleaseDate>39350</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Halo 4</Name>
-		<CopiesSoldinMillions>3</CopiesSoldinMillions>
+		<CopiesSoldinMillions>9,75</CopiesSoldinMillions>
 		<Publisher>Xbox Game Studios</Publisher>
 		<Developer>343 Industries</Developer>
 		<ReleaseDate>41188</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.8</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,8</IGNRating>
+	</Game>
+	<Game>
 		<Name>Halo 5: Guardians</Name>
-		<CopiesSoldinMillions>1.87</CopiesSoldinMillions>
+		<CopiesSoldinMillions>5,5</CopiesSoldinMillions>
 		<Publisher>Xbox Game Studios</Publisher>
 		<Developer>343 Industries</Developer>
 		<ReleaseDate>42304</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Max Payne</Name>
-		<CopiesSoldinMillions>3.01</CopiesSoldinMillions>
+		<CopiesSoldinMillions>4</CopiesSoldinMillions>
 		<Publisher>Gathering of Developers</Publisher>
 		<Developer>Remedy Entertainment</Developer>
 		<ReleaseDate>37095</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.3</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,3</IGNRating>
+	</Game>
+	<Game>
 		<Name>Max Payne 2: The Fall of Max Payne</Name>
-		<CopiesSoldinMillions>2.38</CopiesSoldinMillions>
+		<CopiesSoldinMillions>3,5</CopiesSoldinMillions>
 		<Publisher>Xbox Game Studios</Publisher>
 		<Developer>Remedy Entertainment</Developer>
 		<ReleaseDate>37908</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.4</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,4</IGNRating>
+	</Game>
+	<Game>
 		<Name>Max Payne 3</Name>
-		<CopiesSoldinMillions>7.33</CopiesSoldinMillions>
+		<CopiesSoldinMillions>4</CopiesSoldinMillions>
 		<Publisher>Xbox Game Studios</Publisher>
 		<Developer>Rockstar North Limited</Developer>
 		<ReleaseDate>41044</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Silent Hill 2</Name>
-		<CopiesSoldinMillions>16.38</CopiesSoldinMillions>
+		<CopiesSoldinMillions>2</CopiesSoldinMillions>
 		<Publisher>Konami</Publisher>
 		<Developer>Team Silent</Developer>
 		<ReleaseDate>37158</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Silent Hill 3</Name>
-		<CopiesSoldinMillions>10</CopiesSoldinMillions>
+		<CopiesSoldinMillions>1,5</CopiesSoldinMillions>
 		<Publisher>Konami</Publisher>
 		<Developer>Team Silent</Developer>
 		<ReleaseDate>37764</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.2</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,2</IGNRating>
+	</Game>
+	<Game>
 		<Name>Final Fantasy X</Name>
-		<CopiesSoldinMillions>4.29</CopiesSoldinMillions>
+		<CopiesSoldinMillions>9,26</CopiesSoldinMillions>
 		<Publisher>Square Enix</Publisher>
 		<Developer>Square Enix</Developer>
 		<ReleaseDate>37091</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Final Fantasy X-2</Name>
-		<CopiesSoldinMillions>2.7</CopiesSoldinMillions>
+		<CopiesSoldinMillions>7,24</CopiesSoldinMillions>
 		<Publisher>Square Enix</Publisher>
 		<Developer>Square Enix</Developer>
 		<ReleaseDate>37693</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Final Fantasy XI</Name>
-		<CopiesSoldinMillions>4.9</CopiesSoldinMillions>
+		<CopiesSoldinMillions>2,28</CopiesSoldinMillions>
 		<Publisher>Square Enix</Publisher>
 		<Developer>Square Enix</Developer>
 		<ReleaseDate>37392</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>8</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Final Fantasy XII</Name>
-		<CopiesSoldinMillions>NULL</CopiesSoldinMillions>
+		<CopiesSoldinMillions>6,1</CopiesSoldinMillions>
 		<Publisher>Square Enix</Publisher>
 		<Developer>Square Enix</Developer>
 		<ReleaseDate>38792</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>7.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>7,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Final Fantasy XIII</Name>
+		<CopiesSoldinMillions>7,7</CopiesSoldinMillions>
 		<Publisher>Square Enix</Publisher>
 		<Developer>Square Enix</Developer>
 		<ReleaseDate>40164</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>8.3</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,3</IGNRating>
+	</Game>
+	<Game>
 		<Name>Final Fantasy XIII-2</Name>
+		<CopiesSoldinMillions>3,6</CopiesSoldinMillions>
 		<Publisher>Square Enix</Publisher>
 		<Developer>Square Enix</Developer>
 		<ReleaseDate>40892</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
 		<IGNRating>8</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Lightning Returns: Final Fantasy XIII</Name>
+		<CopiesSoldinMillions>1,2</CopiesSoldinMillions>
 		<Publisher>Square Enix</Publisher>
 		<Developer>Square Enix</Developer>
 		<ReleaseDate>41599</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
 		<IGNRating>7</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Final Fantasy XIV</Name>
+		<CopiesSoldinMillions>11</CopiesSoldinMillions>
 		<Publisher>Square Enix</Publisher>
 		<Developer>Square Enix</Developer>
 		<ReleaseDate>41513</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.6</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,6</IGNRating>
+	</Game>
+	<Game>
 		<Name>Final Fantasy XV</Name>
+		<CopiesSoldinMillions>8,4</CopiesSoldinMillions>
 		<Publisher>Square Enix</Publisher>
 		<Developer>Square Enix</Developer>
 		<ReleaseDate>42703</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>8</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Kingdom Hearts</Name>
+		<CopiesSoldinMillions>6,2</CopiesSoldinMillions>
 		<Publisher>Square Enix</Publisher>
 		<Developer>Square Enix</Developer>
 		<ReleaseDate>37343</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Kingdom Hearts II</Name>
+		<CopiesSoldinMillions>5,2</CopiesSoldinMillions>
 		<Publisher>Square Enix</Publisher>
 		<Developer>Square Enix</Developer>
 		<ReleaseDate>38708</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>7.6</IGNRating>
-	</record>
-	<record>
+		<IGNRating>7,6</IGNRating>
+	</Game>
+	<Game>
 		<Name>Kingdom Hearts III</Name>
+		<CopiesSoldinMillions>5</CopiesSoldinMillions>
 		<Publisher>Square Enix</Publisher>
 		<Developer>Square Enix</Developer>
 		<ReleaseDate>43490</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>8.7</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,7</IGNRating>
+	</Game>
+	<Game>
 		<Name>Jak and Dexter</Name>
+		<CopiesSoldinMillions>3,64</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Naughty Dog</Developer>
 		<ReleaseDate>37228</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.4</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,4</IGNRating>
+	</Game>
+	<Game>
 		<Name>Jak II</Name>
+		<CopiesSoldinMillions>2,78</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Naughty Dog</Developer>
 		<ReleaseDate>37908</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Jak 3</Name>
+		<CopiesSoldinMillions>1,85</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Naughty Dog</Developer>
 		<ReleaseDate>38300</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.6</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,6</IGNRating>
+	</Game>
+	<Game>
 		<Name>Ratchet &amp; Clank</Name>
+		<CopiesSoldinMillions>3,71</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Insomniac Games</Developer>
 		<ReleaseDate>37564</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.2</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,2</IGNRating>
+	</Game>
+	<Game>
 		<Name>Ratchet &amp; Clank: Going Commando</Name>
+		<CopiesSoldinMillions>2,97</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Insomniac Games</Developer>
 		<ReleaseDate>37936</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.4</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,4</IGNRating>
+	</Game>
+	<Game>
 		<Name>Ratchet &amp; Clank: Up Your Arsenal</Name>
+		<CopiesSoldinMillions>3,22</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Insomniac Games</Developer>
 		<ReleaseDate>38294</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.6</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,6</IGNRating>
+	</Game>
+	<Game>
 		<Name>Sly Cooper and the Thievius Raccoonus</Name>
+		<CopiesSoldinMillions>1,21</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Sucker Punch Productions</Developer>
 		<ReleaseDate>37522</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>8.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Ratchet: Deadlocked</Name>
+		<CopiesSoldinMillions>2,17</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Insomniac Games</Developer>
 		<ReleaseDate>38650</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.8</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,8</IGNRating>
+	</Game>
+	<Game>
 		<Name>Ratchet &amp; Clank Future: Tools of Destruction</Name>
+		<CopiesSoldinMillions>2,57</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Insomniac Games</Developer>
 		<ReleaseDate>39378</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Ratchet &amp; Clank Future: Quest for Booty</Name>
+		<CopiesSoldinMillions>0,51</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Insomniac Games</Developer>
 		<ReleaseDate>39681</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>7.4</IGNRating>
-	</record>
-	<record>
+		<IGNRating>7,4</IGNRating>
+	</Game>
+	<Game>
 		<Name>Ratchet &amp; Clank Future: A Crack in Time</Name>
+		<CopiesSoldinMillions>1,9</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Insomniac Games</Developer>
 		<ReleaseDate>40113</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Ratchet &amp; Clank (2016)</Name>
+		<CopiesSoldinMillions>2,4</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Insomniac Games</Developer>
 		<ReleaseDate>42472</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Sly 2: Band of Thieves</Name>
+		<CopiesSoldinMillions>1,81</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Sucker Punch Productions</Developer>
 		<ReleaseDate>38244</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.2</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,2</IGNRating>
+	</Game>
+	<Game>
 		<Name>Sly 3: Honor Amng Thieves</Name>
+		<CopiesSoldinMillions>0,83</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Sucker Punch Productions</Developer>
 		<ReleaseDate>38621</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.1</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,1</IGNRating>
+	</Game>
+	<Game>
 		<Name>Sly Cooper: Thieves in Time</Name>
+		<CopiesSoldinMillions>0,58</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Sanzaru Games</Developer>
 		<ReleaseDate>41310</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>8</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>God of War</Name>
+		<CopiesSoldinMillions>4,62</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Santa Monica Studio</Developer>
 		<ReleaseDate>38433</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.8</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,8</IGNRating>
+	</Game>
+	<Game>
 		<Name>God of War II</Name>
+		<CopiesSoldinMillions>4,24</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Santa Monica Studio</Developer>
 		<ReleaseDate>39154</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.7</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,7</IGNRating>
+	</Game>
+	<Game>
 		<Name>God of War: Chains of Olympus</Name>
+		<CopiesSoldinMillions>3,26</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Ready at Dawn</Developer>
 		<ReleaseDate>39511</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.4</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,4</IGNRating>
+	</Game>
+	<Game>
 		<Name>God of War III:</Name>
+		<CopiesSoldinMillions>5,2</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Santa Monica Studio</Developer>
 		<ReleaseDate>40253</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.3</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,3</IGNRating>
+	</Game>
+	<Game>
 		<Name>God of War: Ghost of Sparta</Name>
+		<CopiesSoldinMillions>1,2</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Ready at Dawn</Developer>
 		<ReleaseDate>40484</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>God of War: Ascension</Name>
+		<CopiesSoldinMillions>0,57</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Santa Monica Studio</Developer>
 		<ReleaseDate>41345</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>7.8</IGNRating>
-	</record>
-	<record>
+		<IGNRating>7,8</IGNRating>
+	</Game>
+	<Game>
 		<Name>God of War(2018)</Name>
+		<CopiesSoldinMillions>11</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Santa Monica Studio</Developer>
 		<ReleaseDate>43210</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
 		<IGNRating>10</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Prince of Persia: The Sands of Time</Name>
+		<CopiesSoldinMillions>3,4</CopiesSoldinMillions>
 		<Publisher>Ubisoft</Publisher>
 		<Developer>Ubisoft Montreal</Developer>
 		<ReleaseDate>37922</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.6</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,6</IGNRating>
+	</Game>
+	<Game>
 		<Name>Prince of Persia: Warrior Within</Name>
+		<CopiesSoldinMillions>2,64</CopiesSoldinMillions>
 		<Publisher>Ubisoft</Publisher>
 		<Developer>Ubisoft Montreal</Developer>
 		<ReleaseDate>38325</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>8.7</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,7</IGNRating>
+	</Game>
+	<Game>
 		<Name>Prince of Persia: The Two Thrones</Name>
+		<CopiesSoldinMillions>1,5</CopiesSoldinMillions>
 		<Publisher>Ubisoft</Publisher>
 		<Developer>Ubisoft Montreal</Developer>
 		<ReleaseDate>38687</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>8.8</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,8</IGNRating>
+	</Game>
+	<Game>
 		<Name>Prince of Persia: The Forgotten Sands</Name>
+		<CopiesSoldinMillions>2,61</CopiesSoldinMillions>
 		<Publisher>Ubisoft</Publisher>
 		<Developer>Ubisoft Montreal</Developer>
 		<ReleaseDate>40316</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
 		<IGNRating>8</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Assassin's Creed</Name>
+		<CopiesSoldinMillions>11,29</CopiesSoldinMillions>
 		<Publisher>Ubisoft</Publisher>
 		<Developer>Ubisoft Montreal</Developer>
 		<ReleaseDate>39368</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>7.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>7,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Assassin's Creed II</Name>
+		<CopiesSoldinMillions>11,41</CopiesSoldinMillions>
 		<Publisher>Ubisoft</Publisher>
 		<Developer>Ubisoft Montreal</Developer>
 		<ReleaseDate>40134</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>8.8</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,8</IGNRating>
+	</Game>
+	<Game>
 		<Name>Assassin's Creed: Brotherhood</Name>
+		<CopiesSoldinMillions>6,97</CopiesSoldinMillions>
 		<Publisher>Ubisoft</Publisher>
 		<Developer>Ubisoft Montreal</Developer>
 		<ReleaseDate>40498</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>8</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Assassin's Creed: Revelations</Name>
+		<CopiesSoldinMillions>9,21</CopiesSoldinMillions>
 		<Publisher>Ubisoft</Publisher>
 		<Developer>Ubisoft Montreal</Developer>
 		<ReleaseDate>40862</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Assassin's Creed III</Name>
+		<CopiesSoldinMillions>13,06</CopiesSoldinMillions>
 		<Publisher>Ubisoft</Publisher>
 		<Developer>Ubisoft Montreal</Developer>
 		<ReleaseDate>41212</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Assassin's Creed IV: Black Flag</Name>
+		<CopiesSoldinMillions>13,71</CopiesSoldinMillions>
 		<Publisher>Ubisoft</Publisher>
 		<Developer>Ubisoft Montreal</Developer>
 		<ReleaseDate>41576</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Assassin's Creed: Rogue</Name>
+		<CopiesSoldinMillions>2,42</CopiesSoldinMillions>
 		<Publisher>Ubisoft</Publisher>
 		<Developer>Ubisoft Sofia</Developer>
 		<ReleaseDate>41954</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>6.8</IGNRating>
-	</record>
-	<record>
+		<IGNRating>6,8</IGNRating>
+	</Game>
+	<Game>
 		<Name>Assassin's Creed: Unity</Name>
+		<CopiesSoldinMillions>8,28</CopiesSoldinMillions>
 		<Publisher>Ubisoft</Publisher>
 		<Developer>Ubisoft Montreal</Developer>
 		<ReleaseDate>41954</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>7.8</IGNRating>
-	</record>
-	<record>
+		<IGNRating>7,8</IGNRating>
+	</Game>
+	<Game>
 		<Name>Assassin's Creed: Syndicate</Name>
+		<CopiesSoldinMillions>5,3</CopiesSoldinMillions>
 		<Publisher>Ubisoft</Publisher>
 		<Developer>Ubisoft Quefec</Developer>
 		<ReleaseDate>42300</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>8.2</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,2</IGNRating>
+	</Game>
+	<Game>
 		<Name>Assassin's Creed: Origins</Name>
+		<CopiesSoldinMillions>8,09</CopiesSoldinMillions>
 		<Publisher>Ubisoft</Publisher>
 		<Developer>Ubisoft Montreal</Developer>
 		<ReleaseDate>43035</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Assassin's Creed: Odyssey</Name>
+		<CopiesSoldinMillions>4,63</CopiesSoldinMillions>
 		<Publisher>Ubisoft</Publisher>
 		<Developer>Ubisoft Quefec</Developer>
 		<ReleaseDate>43378</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.2</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,2</IGNRating>
+	</Game>
+	<Game>
 		<Name>Tekken 4</Name>
+		<CopiesSoldinMillions>1,98</CopiesSoldinMillions>
 		<Publisher>Bandai Namco Entertaiment</Publisher>
 		<Developer>Bandai Namco Entertainment</Developer>
 		<ReleaseDate>37343</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.4</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,4</IGNRating>
+	</Game>
+	<Game>
 		<Name>Tekken 5</Name>
+		<CopiesSoldinMillions>6</CopiesSoldinMillions>
 		<Publisher>Bandai Namco Entertaiment</Publisher>
 		<Developer>Bandai Namco Entertainment</Developer>
 		<ReleaseDate>38306</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.3</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,3</IGNRating>
+	</Game>
+	<Game>
 		<Name>Tekken 6</Name>
+		<CopiesSoldinMillions>3,5</CopiesSoldinMillions>
 		<Publisher>Bandai Namco Entertainment</Publisher>
 		<Developer>Bandai Namco Entertainment</Developer>
 		<ReleaseDate>39412</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.8</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,8</IGNRating>
+	</Game>
+	<Game>
 		<Name>Tekken 7</Name>
+		<CopiesSoldinMillions>5</CopiesSoldinMillions>
 		<Publisher>Bandai Namco Entertainment</Publisher>
 		<Developer>Bandai Namco Entertainment</Developer>
 		<ReleaseDate>42081</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Naruto Ultimate Ninja Storm</Name>
+		<CopiesSoldinMillions>1,07</CopiesSoldinMillions>
 		<Publisher>Bandai Namco Entertainment</Publisher>
 		<Developer>CyberConnect2</Developer>
 		<ReleaseDate>39756</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.4</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,4</IGNRating>
+	</Game>
+	<Game>
 		<Name>Naruto Shippuuden Ultimate Ninja Storm 2</Name>
+		<CopiesSoldinMillions>1,79</CopiesSoldinMillions>
 		<Publisher>Bandai Namco Entertainment</Publisher>
 		<Developer>CyberConnect2</Developer>
 		<ReleaseDate>40470</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>8</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Naruto Shippuuden: Ultimate Ninja Storm 3</Name>
+		<CopiesSoldinMillions>2,43</CopiesSoldinMillions>
 		<Publisher>Bandai Namco Entertainment</Publisher>
 		<Developer>CyberConnect2</Developer>
 		<ReleaseDate>41338</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.6</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,6</IGNRating>
+	</Game>
+	<Game>
 		<Name>Naruto Shippuuden: Ultimate Ninja Storm 4</Name>
+		<CopiesSoldinMillions>2,46</CopiesSoldinMillions>
 		<Publisher>Bandai Namco Entertainment</Publisher>
 		<Developer>CyberConnect2</Developer>
 		<ReleaseDate>42404</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>5.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>5,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Dragon Ball Z: Battle of Z</Name>
+		<CopiesSoldinMillions>0,51</CopiesSoldinMillions>
 		<Publisher>Bandai Namco Entertainment</Publisher>
 		<Developer>Artdink Corporation</Developer>
 		<ReleaseDate>41662</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>6.6</IGNRating>
-	</record>
-	<record>
+		<IGNRating>6,6</IGNRating>
+	</Game>
+	<Game>
 		<Name>Dragon Ball: Xenoverse</Name>
+		<CopiesSoldinMillions>5</CopiesSoldinMillions>
 		<Publisher>Bandai Namco Entertainment</Publisher>
 		<Developer>Dimps Corporation</Developer>
 		<ReleaseDate>42040</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>6.7</IGNRating>
-	</record>
-	<record>
+		<IGNRating>6,7</IGNRating>
+	</Game>
+	<Game>
 		<Name>Dragon Ball: Xenoverse 2</Name>
+		<CopiesSoldinMillions>5</CopiesSoldinMillions>
 		<Publisher>Bandai Namco Entertainment</Publisher>
 		<Developer>Dimps Corporation</Developer>
 		<ReleaseDate>42668</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>7.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>7,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Dragon Ball Z: FighterZ</Name>
+		<CopiesSoldinMillions>3,5</CopiesSoldinMillions>
 		<Publisher>Bandai Namco Entertainment</Publisher>
 		<Developer>Arc System Works</Developer>
 		<ReleaseDate>43126</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Dragon Ball Z: Kakarot</Name>
+		<CopiesSoldinMillions>2</CopiesSoldinMillions>
 		<Publisher>Bandai Namco Entertainment</Publisher>
 		<Developer>CyberConnect2</Developer>
 		<ReleaseDate>43846</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
 		<IGNRating>7</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Resident Evil 4</Name>
+		<CopiesSoldinMillions>8,63</CopiesSoldinMillions>
 		<Publisher>Capcom</Publisher>
 		<Developer>Capcom</Developer>
 		<ReleaseDate>38363</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.8</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,8</IGNRating>
+	</Game>
+	<Game>
 		<Name>Resident Evil 5</Name>
+		<CopiesSoldinMillions>12,74</CopiesSoldinMillions>
 		<Publisher>Capcom</Publisher>
 		<Developer>Capcom</Developer>
 		<ReleaseDate>39877</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Resident Evil 6</Name>
+		<CopiesSoldinMillions>10,73</CopiesSoldinMillions>
 		<Publisher>Capcom</Publisher>
 		<Developer>Capcom</Developer>
 		<ReleaseDate>41184</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>7.9</IGNRating>
-	</record>
-	<record>
+		<IGNRating>7,9</IGNRating>
+	</Game>
+	<Game>
 		<Name>Resident Evil 7: Biohazard</Name>
+		<CopiesSoldinMillions>7</CopiesSoldinMillions>
 		<Publisher>Capcom</Publisher>
 		<Developer>Capcom</Developer>
 		<ReleaseDate>42759</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>7.7</IGNRating>
-	</record>
-	<record>
+		<IGNRating>7,7</IGNRating>
+	</Game>
+	<Game>
 		<Name>Resident Evil: Operation Racoon City</Name>
+		<CopiesSoldinMillions>2,7</CopiesSoldinMillions>
 		<Publisher>Capcom</Publisher>
 		<Developer>Capcom</Developer>
 		<ReleaseDate>40988</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>4</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Resident Evil: Revelations</Name>
+		<CopiesSoldinMillions>2,7</CopiesSoldinMillions>
 		<Publisher>Capcom</Publisher>
 		<Developer>Capcom</Developer>
 		<ReleaseDate>40934</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Resident Evil: Revelations 2</Name>
+		<CopiesSoldinMillions>2,5</CopiesSoldinMillions>
 		<Publisher>Capcom</Publisher>
 		<Developer>Capcom</Developer>
 		<ReleaseDate>42059</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>6.8</IGNRating>
-	</record>
-	<record>
+		<IGNRating>6,8</IGNRating>
+	</Game>
+	<Game>
 		<Name>Resident Evil 2 (Remake)</Name>
+		<CopiesSoldinMillions>5,8</CopiesSoldinMillions>
 		<Publisher>Capcom</Publisher>
 		<Developer>Capcom</Developer>
 		<ReleaseDate>43490</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Resident Evil 3 (Remake)</Name>
+		<CopiesSoldinMillions>2,2</CopiesSoldinMillions>
 		<Publisher>Capcom</Publisher>
 		<Developer>Capcom</Developer>
 		<ReleaseDate>43924</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Need for Speed: Underground</Name>
+		<CopiesSoldinMillions>15</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>EA Black Box</Developer>
 		<ReleaseDate>37212</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.8</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,8</IGNRating>
+	</Game>
+	<Game>
 		<Name>Need for Speed: Underground 2</Name>
+		<CopiesSoldinMillions>7</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>EA Black Box</Developer>
 		<ReleaseDate>38425</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.1</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,1</IGNRating>
+	</Game>
+	<Game>
 		<Name>Need for Speed: Most Wanted</Name>
+		<CopiesSoldinMillions>16</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>EA Vancouver</Developer>
 		<ReleaseDate>38667</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Need for Speed: Carbon</Name>
+		<CopiesSoldinMillions>3,2</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>EA Vancouver</Developer>
 		<ReleaseDate>39020</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.2</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,2</IGNRating>
+	</Game>
+	<Game>
 		<Name>Need for Speed: ProStreet</Name>
+		<CopiesSoldinMillions>2,4</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>EA Black Box</Developer>
 		<ReleaseDate>39400</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>7</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Need for Speed: Undercover</Name>
+		<CopiesSoldinMillions>5,2</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>EA Black Box</Developer>
 		<ReleaseDate>39770</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>5</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Need for Speed: Hot Pursuit</Name>
+		<CopiesSoldinMillions>5,5</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>Criterion Games</Developer>
 		<ReleaseDate>40498</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Need for Speed: The Run</Name>
+		<CopiesSoldinMillions>4,02</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>EA Black Box</Developer>
 		<ReleaseDate>40862</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>6.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>6,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Need for Speed: Rivals</Name>
+		<CopiesSoldinMillions>5,2</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>Ghost Games</Developer>
 		<ReleaseDate>41600</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>8</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Need for Speed (2015)</Name>
+		<CopiesSoldinMillions>3,51</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>Ghost Games</Developer>
 		<ReleaseDate>42311</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>6.3</IGNRating>
-	</record>
-	<record>
+		<IGNRating>6,3</IGNRating>
+	</Game>
+	<Game>
 		<Name>Call of Duty</Name>
+		<CopiesSoldinMillions>1</CopiesSoldinMillions>
 		<Publisher>Activision</Publisher>
 		<Developer>Infinity Ward</Developer>
 		<ReleaseDate>37923</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.3</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,3</IGNRating>
+	</Game>
+	<Game>
 		<Name>Call of Duty 2</Name>
+		<CopiesSoldinMillions>5,9</CopiesSoldinMillions>
 		<Publisher>Activision</Publisher>
 		<Developer>Infinity Ward</Developer>
 		<ReleaseDate>38650</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Call of Duty: Finest Hour</Name>
+		<CopiesSoldinMillions>4,5</CopiesSoldinMillions>
 		<Publisher>Activision</Publisher>
 		<Developer>Spark Unlimited</Developer>
 		<ReleaseDate>38307</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>7</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Call of Duty 3</Name>
+		<CopiesSoldinMillions>7,2</CopiesSoldinMillions>
 		<Publisher>Activision</Publisher>
 		<Developer>Treyarch</Developer>
 		<ReleaseDate>39028</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.8</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,8</IGNRating>
+	</Game>
+	<Game>
 		<Name>Call of Duty 4: Modern Warfare</Name>
+		<CopiesSoldinMillions>18,91</CopiesSoldinMillions>
 		<Publisher>Activision</Publisher>
 		<Developer>Infinity Ward</Developer>
 		<ReleaseDate>39391</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.4</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,4</IGNRating>
+	</Game>
+	<Game>
 		<Name>Call of Duty: World at War</Name>
+		<CopiesSoldinMillions>15,94</CopiesSoldinMillions>
 		<Publisher>Activision</Publisher>
 		<Developer>Treyarch</Developer>
 		<ReleaseDate>39763</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.2</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,2</IGNRating>
+	</Game>
+	<Game>
 		<Name>Call of Duty: Modern Warfare 2</Name>
+		<CopiesSoldinMillions>25,02</CopiesSoldinMillions>
 		<Publisher>Activision</Publisher>
 		<Developer>Infinity Ward</Developer>
 		<ReleaseDate>40127</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Call of Duty: Black Ops</Name>
+		<CopiesSoldinMillions>30,72</CopiesSoldinMillions>
 		<Publisher>Activision</Publisher>
 		<Developer>Treyarch</Developer>
 		<ReleaseDate>40491</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Call of Duty: Modern Warfare 3</Name>
+		<CopiesSoldinMillions>30,71</CopiesSoldinMillions>
 		<Publisher>Activision</Publisher>
 		<Developer>Infinity Ward</Developer>
 		<ReleaseDate>40855</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Call of Duty: Black Ops II</Name>
+		<CopiesSoldinMillions>29,59</CopiesSoldinMillions>
 		<Publisher>Activision</Publisher>
 		<Developer>Treyarch</Developer>
 		<ReleaseDate>41231</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.3</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,3</IGNRating>
+	</Game>
+	<Game>
 		<Name>Call of Duty: Ghosts</Name>
+		<CopiesSoldinMillions>28,98</CopiesSoldinMillions>
 		<Publisher>Activision</Publisher>
 		<Developer>Infinity Ward</Developer>
 		<ReleaseDate>41583</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.8</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,8</IGNRating>
+	</Game>
+	<Game>
 		<Name>Call of Duty: Advanced Warfare</Name>
+		<CopiesSoldinMillions>21,78</CopiesSoldinMillions>
 		<Publisher>Activision</Publisher>
 		<Developer>Sledgehammer Games</Developer>
 		<ReleaseDate>41947</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.1</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,1</IGNRating>
+	</Game>
+	<Game>
 		<Name>Call of Duty: Black Ops III</Name>
+		<CopiesSoldinMillions>26,72</CopiesSoldinMillions>
 		<Publisher>Activision</Publisher>
 		<Developer>Treyarch</Developer>
 		<ReleaseDate>42314</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.2</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,2</IGNRating>
+	</Game>
+	<Game>
 		<Name>Call of Duty: Infinite Warfare</Name>
+		<CopiesSoldinMillions>13,27</CopiesSoldinMillions>
 		<Publisher>Activision</Publisher>
 		<Developer>Infinity Ward</Developer>
 		<ReleaseDate>42678</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>7.7</IGNRating>
-	</record>
-	<record>
+		<IGNRating>7,7</IGNRating>
+	</Game>
+	<Game>
 		<Name>Call of Duty: WWII</Name>
+		<CopiesSoldinMillions>19,82</CopiesSoldinMillions>
 		<Publisher>Activision</Publisher>
 		<Developer>Sledgehammer Games</Developer>
 		<ReleaseDate>43042</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>8</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Call of Duty: Black Ops IIII</Name>
+		<CopiesSoldinMillions>14,3</CopiesSoldinMillions>
 		<Publisher>Activision</Publisher>
 		<Developer>Treyarch</Developer>
 		<ReleaseDate>43385</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Call of Duty: Modern Warfare</Name>
+		<CopiesSoldinMillions>13</CopiesSoldinMillions>
 		<Publisher>Activision</Publisher>
 		<Developer>Infinity Ward</Developer>
 		<ReleaseDate>43763</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.2</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,2</IGNRating>
+	</Game>
+	<Game>
 		<Name>Battlefield 1942</Name>
+		<CopiesSoldinMillions>2,47</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>DICE</Developer>
 		<ReleaseDate>37509</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.3</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,3</IGNRating>
+	</Game>
+	<Game>
 		<Name>Battlefield Vietnam</Name>
+		<CopiesSoldinMillions>1,36</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>DICE</Developer>
 		<ReleaseDate>38060</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>6.3</IGNRating>
-	</record>
-	<record>
+		<IGNRating>6,3</IGNRating>
+	</Game>
+	<Game>
 		<Name>Battlefield 2</Name>
+		<CopiesSoldinMillions>2,25</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>DICE</Developer>
 		<ReleaseDate>38524</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.9</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,9</IGNRating>
+	</Game>
+	<Game>
 		<Name>Battlefield 2: Modern Combat</Name>
+		<CopiesSoldinMillions>1,64</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>DICE</Developer>
 		<ReleaseDate>38649</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Battlefield: Bad Company</Name>
+		<CopiesSoldinMillions>2,59</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>DICE</Developer>
 		<ReleaseDate>39622</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Battlefield 1943</Name>
+		<CopiesSoldinMillions>3,64</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>DICE</Developer>
 		<ReleaseDate>40002</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Battlefield: Bad Company 2</Name>
+		<CopiesSoldinMillions>6,54</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>DICE</Developer>
 		<ReleaseDate>40239</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.9</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,9</IGNRating>
+	</Game>
+	<Game>
 		<Name>Battlefield 3</Name>
+		<CopiesSoldinMillions>15</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>DICE</Developer>
 		<ReleaseDate>40841</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Battlefield 4</Name>
+		<CopiesSoldinMillions>13,8</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>DICE</Developer>
 		<ReleaseDate>41576</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>8</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Battlefield: Hardline</Name>
+		<CopiesSoldinMillions>4,1</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>Visceral Games</Developer>
 		<ReleaseDate>42080</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>8</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Battlefield 1</Name>
+		<CopiesSoldinMillions>25</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>DICE</Developer>
 		<ReleaseDate>42664</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Battlefield V</Name>
+		<CopiesSoldinMillions>7,3</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>DICE</Developer>
 		<ReleaseDate>43424</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>7.3</IGNRating>
-	</record>
-	<record>
+		<IGNRating>7,3</IGNRating>
+	</Game>
+	<Game>
 		<Name>Dead Space</Name>
+		<CopiesSoldinMillions>4</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>Visceral Games</Developer>
 		<ReleaseDate>39734</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>8.7</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,7</IGNRating>
+	</Game>
+	<Game>
 		<Name>Dead Space 2</Name>
+		<CopiesSoldinMillions>3,27</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>Visceral Games</Developer>
 		<ReleaseDate>40568</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Dead Space 3</Name>
+		<CopiesSoldinMillions>2,21</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>Visceral Games</Developer>
 		<ReleaseDate>41310</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>7.8</IGNRating>
-	</record>
-	<record>
+		<IGNRating>7,8</IGNRating>
+	</Game>
+	<Game>
 		<Name>Uncharted: Drake's Fortune</Name>
+		<CopiesSoldinMillions>4,8</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Naughty Dog</Developer>
 		<ReleaseDate>39406</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.1</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,1</IGNRating>
+	</Game>
+	<Game>
 		<Name>Uncharted 2: Among Thieves</Name>
+		<CopiesSoldinMillions>6,74</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Naughty Dog</Developer>
 		<ReleaseDate>40099</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Uncharted 3: Drake's Deception</Name>
+		<CopiesSoldinMillions>9,3</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Naughty Dog</Developer>
 		<ReleaseDate>40848</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>10</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Uncharted 4: A Thief's End</Name>
+		<CopiesSoldinMillions>16,25</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Naughty Dog</Developer>
 		<ReleaseDate>42500</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>The Last of Us</Name>
+		<CopiesSoldinMillions>19,93</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Naughty Dog</Developer>
 		<ReleaseDate>41439</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>10</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Heavy Rain</Name>
+		<CopiesSoldinMillions>5,3</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Quantic Dream</Developer>
 		<ReleaseDate>40232</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Beyond: Two Souls</Name>
+		<CopiesSoldinMillions>2</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Quantic Dream</Developer>
 		<ReleaseDate>41555</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>6</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Detroit: Become Human</Name>
+		<CopiesSoldinMillions>3,2</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Quantic Dream</Developer>
 		<ReleaseDate>43245</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
 		<IGNRating>8</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Fifa 10</Name>
+		<CopiesSoldinMillions>10,72</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>EA Vancouver</Developer>
 		<ReleaseDate>40087</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.3</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,3</IGNRating>
+	</Game>
+	<Game>
 		<Name>Fifa 11</Name>
+		<CopiesSoldinMillions>12,53</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>EA Vancouver</Developer>
 		<ReleaseDate>40449</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Fifa 12</Name>
+		<CopiesSoldinMillions>13,06</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>EA Vancouver</Developer>
 		<ReleaseDate>40816</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Fifa 13</Name>
+		<CopiesSoldinMillions>15,82</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>EA Vancouver</Developer>
 		<ReleaseDate>41177</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Fifa 14</Name>
+		<CopiesSoldinMillions>17,31</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>EA Vancouver</Developer>
 		<ReleaseDate>41540</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Fifa 15</Name>
+		<CopiesSoldinMillions>18,03</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>EA Vancouver</Developer>
 		<ReleaseDate>42270</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.3</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,3</IGNRating>
+	</Game>
+	<Game>
 		<Name>Fifa 16</Name>
+		<CopiesSoldinMillions>15,82</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>EA Vancouver</Developer>
 		<ReleaseDate>42269</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>7.8</IGNRating>
-	</record>
-	<record>
+		<IGNRating>7,8</IGNRating>
+	</Game>
+	<Game>
 		<Name>Fifa 17</Name>
+		<CopiesSoldinMillions>17,02</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>EA Vancouver</Developer>
 		<ReleaseDate>42640</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.4</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,4</IGNRating>
+	</Game>
+	<Game>
 		<Name>Fifa 18</Name>
+		<CopiesSoldinMillions>16,92</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>EA Vancouver</Developer>
 		<ReleaseDate>43007</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.1</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,1</IGNRating>
+	</Game>
+	<Game>
 		<Name>Fifa 19</Name>
+		<CopiesSoldinMillions>12,22</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>EA Vancouver</Developer>
 		<ReleaseDate>43371</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.2</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,2</IGNRating>
+	</Game>
+	<Game>
 		<Name>Pokémon Ruby &amp; Sapphire</Name>
+		<CopiesSoldinMillions>16,22</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Game Freak</Developer>
 		<ReleaseDate>37581</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Pokémon Emerald</Name>
+		<CopiesSoldinMillions>7,06</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Game Freak</Developer>
 		<ReleaseDate>38246</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>8</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Pokémon Diamond &amp; Pearl</Name>
+		<CopiesSoldinMillions>17,67</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Game Freak</Developer>
 		<ReleaseDate>38988</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Pokémon  Platinum</Name>
+		<CopiesSoldinMillions>7,6</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Game Freak</Developer>
 		<ReleaseDate>39704</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.8</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,8</IGNRating>
+	</Game>
+	<Game>
 		<Name>Pokémon Black &amp; White</Name>
+		<CopiesSoldinMillions>15,64</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Game Freak</Developer>
 		<ReleaseDate>40439</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Pokémon Black 2 &amp; White 2</Name>
+		<CopiesSoldinMillions>8,52</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Game Freak</Developer>
 		<ReleaseDate>41083</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.6</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,6</IGNRating>
+	</Game>
+	<Game>
 		<Name>Pokémon X &amp; Y</Name>
+		<CopiesSoldinMillions>16,44</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Game Freak</Developer>
 		<ReleaseDate>41559</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Pokémon Sun &amp; Moon</Name>
+		<CopiesSoldinMillions>16,18</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Game Freak</Developer>
 		<ReleaseDate>42692</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Pokémon Ultra Sun &amp; Ultra Moon</Name>
+		<CopiesSoldinMillions>8,7</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Game Freak</Developer>
 		<ReleaseDate>43056</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Pokémon Sword &amp; Shield</Name>
+		<CopiesSoldinMillions>16,06</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Game Freak</Developer>
 		<ReleaseDate>43784</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.3</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,3</IGNRating>
+	</Game>
+	<Game>
 		<Name>Pokémon FireRed &amp; LeafGreen</Name>
+		<CopiesSoldinMillions>12</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Game Freak</Developer>
 		<ReleaseDate>38015</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Pokémon HeartGold &amp; SoulSilver</Name>
+		<CopiesSoldinMillions>12,72</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Game Freak</Developer>
 		<ReleaseDate>40068</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Pokémon Omega Ruby &amp; Omega Sapphire</Name>
+		<CopiesSoldinMillions>14,26</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Game Freak</Developer>
 		<ReleaseDate>41964</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>7.8</IGNRating>
-	</record>
-	<record>
+		<IGNRating>7,8</IGNRating>
+	</Game>
+	<Game>
 		<Name>Pokémon: Let's Go Pikachu &amp; Let's Go Eevee</Name>
+		<CopiesSoldinMillions>11,76</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Game Freak</Developer>
 		<ReleaseDate>43420</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.3</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,3</IGNRating>
+	</Game>
+	<Game>
 		<Name>The Legend of Zelda: Majora's Mask</Name>
+		<CopiesSoldinMillions>3,36</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Nintendo EAD</Developer>
 		<ReleaseDate>36643</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.9</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,9</IGNRating>
+	</Game>
+	<Game>
 		<Name>The Legend of Zelda: A link to the Past &amp; Four Swords</Name>
+		<CopiesSoldinMillions>2,82</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Capcom</Developer>
 		<ReleaseDate>37592</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.7</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,7</IGNRating>
+	</Game>
+	<Game>
 		<Name>The Legend of Zelda: racle of Seasons and Ages</Name>
+		<CopiesSoldinMillions>3,99</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Capcom</Developer>
 		<ReleaseDate>36949</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
 		<IGNRating>10</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>The Legend of Zelda: The Wind Waker</Name>
+		<CopiesSoldinMillions>4,43</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Nintendo EAD</Developer>
 		<ReleaseDate>37603</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.6</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,6</IGNRating>
+	</Game>
+	<Game>
 		<Name>The Legend of Zelda: The Minish Cap</Name>
+		<CopiesSoldinMillions>1,76</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Capcom</Developer>
 		<ReleaseDate>38295</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>The Legend of Zelda: Twilight Princess</Name>
+		<CopiesSoldinMillions>8,85</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Nintendo EAD</Developer>
 		<ReleaseDate>38736</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>The Legend of Zelda: Phantom Hourglass</Name>
+		<CopiesSoldinMillions>4,76</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Nintendo EAD</Developer>
 		<ReleaseDate>39256</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>The Legend of Zelda:  Spirit Tracks</Name>
+		<CopiesSoldinMillions>2,96</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Nintendo EAD</Developer>
 		<ReleaseDate>40154</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.3</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,3</IGNRating>
+	</Game>
+	<Game>
 		<Name>The Legend of Zelda: Skyward Sword</Name>
+		<CopiesSoldinMillions>3,67</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Nintendo EAD</Developer>
 		<ReleaseDate>40865</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
 		<IGNRating>10</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>The Legend of Zelda: A Link Between Worlds</Name>
+		<CopiesSoldinMillions>4,07</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Nintendo EAD</Developer>
 		<ReleaseDate>41600</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.4</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,4</IGNRating>
+	</Game>
+	<Game>
 		<Name>The Legend of Zelda: Tri Force Heroes</Name>
+		<CopiesSoldinMillions>1,33</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Nintendo EPD</Developer>
 		<ReleaseDate>42299</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>The Legend of Zelda:  Breath of the Wild</Name>
+		<CopiesSoldinMillions>17,95</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Nintendo EPD</Developer>
 		<ReleaseDate>42797</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
 		<IGNRating>10</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Super Mario Sunshine</Name>
+		<CopiesSoldinMillions>6,31</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Nintendo EAD</Developer>
 		<ReleaseDate>37456</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.4</IGNRating>
-	</record>
-	<record>
-		<Name>New Super Mario Bros.</Name>
+		<IGNRating>9,4</IGNRating>
+	</Game>
+	<Game>
+		<Name>New Super Mario Bros,</Name>
+		<CopiesSoldinMillions>66,85</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Nintendo EAD</Developer>
 		<ReleaseDate>38852</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.5</IGNRating>
-	</record>
-	<record>
-		<Name>New Super Mario Bros. 2</Name>
+		<IGNRating>9,5</IGNRating>
+	</Game>
+	<Game>
+		<Name>New Super Mario Bros, 2</Name>
+		<CopiesSoldinMillions>13,32</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Nintendo EAD</Developer>
 		<ReleaseDate>41118</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Super Mario Galaxy</Name>
+		<CopiesSoldinMillions>12,79</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Nintendo EAD</Developer>
 		<ReleaseDate>39387</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.7</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,7</IGNRating>
+	</Game>
+	<Game>
 		<Name>Super Mario Galaxy 2</Name>
+		<CopiesSoldinMillions>7,67</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Nintendo EAD</Developer>
 		<ReleaseDate>40321</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>10</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Super Mario 3D Land</Name>
+		<CopiesSoldinMillions>12,67</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Nintendo EAD</Developer>
 		<ReleaseDate>40849</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Super Mario 3D World</Name>
+		<CopiesSoldinMillions>5,83</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Nintendo EAD</Developer>
 		<ReleaseDate>41599</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.6</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,6</IGNRating>
+	</Game>
+	<Game>
 		<Name>Super Mario Odyssey</Name>
+		<CopiesSoldinMillions>16,59</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Nintendo EPD</Developer>
 		<ReleaseDate>43035</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>10</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Mario Kart DS</Name>
+		<CopiesSoldinMillions>23,6</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Nintendo EAD</Developer>
 		<ReleaseDate>38670</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Mario Kart WII</Name>
+		<CopiesSoldinMillions>37,24</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Nintendo EAD</Developer>
 		<ReleaseDate>39548</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.9</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,9</IGNRating>
+	</Game>
+	<Game>
 		<Name>Martio Kart 7</Name>
+		<CopiesSoldinMillions>18,68</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Nintendo EAD</Developer>
 		<ReleaseDate>40878</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Mario Kart 8</Name>
+		<CopiesSoldinMillions>30,4</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Nintendo EAD</Developer>
 		<ReleaseDate>41788</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.3</IGNRating>
-	</record>
-	<record>
-		<Name>Super Smash Bros. Melee</Name>
+		<IGNRating>9,3</IGNRating>
+	</Game>
+	<Game>
+		<Name>Super Smash Bros, Melee</Name>
+		<CopiesSoldinMillions>7,41</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Hal Laboratory</Developer>
 		<ReleaseDate>37216</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.6</IGNRating>
-	</record>
-	<record>
-		<Name>Super Smash Bros. Brawl</Name>
+		<IGNRating>9,6</IGNRating>
+	</Game>
+	<Game>
+		<Name>Super Smash Bros, Brawl</Name>
+		<CopiesSoldinMillions>13,3</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Hal Laboratory</Developer>
 		<ReleaseDate>39478</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.5</IGNRating>
-	</record>
-	<record>
-		<Name>Super Smash Bros. Ultimate</Name>
+		<IGNRating>9,5</IGNRating>
+	</Game>
+	<Game>
+		<Name>Super Smash Bros, Ultimate</Name>
+		<CopiesSoldinMillions>17,68</CopiesSoldinMillions>
 		<Publisher>Nintendo</Publisher>
 		<Developer>Bandai Namco Entertainment</Developer>
 		<ReleaseDate>43441</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.4</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,4</IGNRating>
+	</Game>
+	<Game>
 		<Name>PlayerUnknown's BattleGrounds</Name>
+		<CopiesSoldinMillions>20</CopiesSoldinMillions>
 		<Publisher>Bluehole</Publisher>
 		<Developer>Bluehole</Developer>
 		<ReleaseDate>43071</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>The Elder Scrolls III: Morrowind</Name>
+		<CopiesSoldinMillions>3,89</CopiesSoldinMillions>
 		<Publisher>Bethesda Softworks</Publisher>
 		<Developer>Bethesda Game Studios</Developer>
 		<ReleaseDate>37377</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.4</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,4</IGNRating>
+	</Game>
+	<Game>
 		<Name>The Elder Scrolls IV: Oblivion</Name>
+		<CopiesSoldinMillions>7,84</CopiesSoldinMillions>
 		<Publisher>Bethesda Softworks</Publisher>
 		<Developer>Bethesda Game Studios</Developer>
 		<ReleaseDate>38796</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.3</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,3</IGNRating>
+	</Game>
+	<Game>
 		<Name>The Elder Scrolls V: Skyrim</Name>
+		<CopiesSoldinMillions>19,36</CopiesSoldinMillions>
 		<Publisher>Bethesda Softworks</Publisher>
 		<Developer>Bethesda Game Studios</Developer>
 		<ReleaseDate>40858</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Fallout 3</Name>
+		<CopiesSoldinMillions>9,96</CopiesSoldinMillions>
 		<Publisher>Bethesda Softworks</Publisher>
 		<Developer>Bethesda Game Studios</Developer>
 		<ReleaseDate>39749</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>8.8</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,8</IGNRating>
+	</Game>
+	<Game>
 		<Name>Fallout: New Vegas</Name>
+		<CopiesSoldinMillions>8,42</CopiesSoldinMillions>
 		<Publisher>Bethesda Softworks</Publisher>
 		<Developer>Obsidian Entertainment</Developer>
 		<ReleaseDate>40470</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Fallout 4</Name>
+		<CopiesSoldinMillions>14,91</CopiesSoldinMillions>
 		<Publisher>Bethesda Softworks</Publisher>
 		<Developer>Bethesda Game Studios</Developer>
 		<ReleaseDate>42318</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Fallout 76</Name>
+		<CopiesSoldinMillions>2,46</CopiesSoldinMillions>
 		<Publisher>Bethesda Softworks</Publisher>
 		<Developer>Bethesda Game Studios</Developer>
 		<ReleaseDate>43418</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Star Wars: Knights of the Old Republic</Name>
+		<CopiesSoldinMillions>3,2</CopiesSoldinMillions>
 		<Publisher>Lucasarts</Publisher>
 		<Developer>BioWare</Developer>
 		<ReleaseDate>37817</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Star Wars Knights of the Old Republic II: The Sith Lords</Name>
+		<CopiesSoldinMillions>1,79</CopiesSoldinMillions>
 		<Publisher>Lucasarts</Publisher>
 		<Developer>Obsidian Entertainment</Developer>
 		<ReleaseDate>38326</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.3</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,3</IGNRating>
+	</Game>
+	<Game>
 		<Name>Star Wars Battlefront</Name>
+		<CopiesSoldinMillions>5,6</CopiesSoldinMillions>
 		<Publisher>Lucasarts</Publisher>
 		<Developer>Pandemic Studios</Developer>
 		<ReleaseDate>38251</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.4</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,4</IGNRating>
+	</Game>
+	<Game>
 		<Name>Star Wars Battlefront II</Name>
+		<CopiesSoldinMillions>8,93</CopiesSoldinMillions>
 		<Publisher>Lucasarts</Publisher>
 		<Developer>Pandemic Studios</Developer>
 		<ReleaseDate>38656</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>7.8</IGNRating>
-	</record>
-	<record>
+		<IGNRating>7,8</IGNRating>
+	</Game>
+	<Game>
 		<Name>Star Wars Battlefront (2015)</Name>
+		<CopiesSoldinMillions>12,67</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>DICE</Developer>
 		<ReleaseDate>42325</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>8</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Star Wars Battlefront II (2017)</Name>
+		<CopiesSoldinMillions>6,5</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>DICE</Developer>
 		<ReleaseDate>43056</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>6.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>6,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Star Wars Jedi: Fallen Order</Name>
+		<CopiesSoldinMillions>10</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>Respawn Entertainment</Developer>
 		<ReleaseDate>43784</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Bioshock</Name>
+		<CopiesSoldinMillions>4,68</CopiesSoldinMillions>
 		<Publisher>2K</Publisher>
 		<Developer>Irrational Games</Developer>
 		<ReleaseDate>39315</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.7</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,7</IGNRating>
+	</Game>
+	<Game>
 		<Name>Bioshock 2</Name>
+		<CopiesSoldinMillions>3,75</CopiesSoldinMillions>
 		<Publisher>2K</Publisher>
 		<Developer>2K Marin</Developer>
 		<ReleaseDate>40218</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Bioshock Infinite</Name>
+		<CopiesSoldinMillions>11</CopiesSoldinMillions>
 		<Publisher>2K</Publisher>
 		<Developer>Irrational Games</Developer>
 		<ReleaseDate>41359</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.4</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,4</IGNRating>
+	</Game>
+	<Game>
 		<Name>Mass Effect</Name>
+		<CopiesSoldinMillions>3,58</CopiesSoldinMillions>
 		<Publisher>Xbox Game Studios</Publisher>
 		<Developer>BioWare</Developer>
 		<ReleaseDate>39406</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.4</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,4</IGNRating>
+	</Game>
+	<Game>
 		<Name>Mass Effect 2</Name>
+		<CopiesSoldinMillions>4,95</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>BioWare</Developer>
 		<ReleaseDate>40204</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.6</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,6</IGNRating>
+	</Game>
+	<Game>
 		<Name>Mass Effect 3</Name>
+		<CopiesSoldinMillions>5,74</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>BioWare</Developer>
 		<ReleaseDate>40974</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Mass Effect: Andromeda</Name>
+		<CopiesSoldinMillions>2,4</CopiesSoldinMillions>
 		<Publisher>Electronic Arts</Publisher>
 		<Developer>BioWare</Developer>
 		<ReleaseDate>42815</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>7.7</IGNRating>
-	</record>
-	<record>
+		<IGNRating>7,7</IGNRating>
+	</Game>
+	<Game>
 		<Name>Gears of War</Name>
+		<CopiesSoldinMillions>6,11</CopiesSoldinMillions>
 		<Publisher>Xbox Game Studios</Publisher>
 		<Developer>Epic Games</Developer>
 		<ReleaseDate>39028</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.4</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,4</IGNRating>
+	</Game>
+	<Game>
 		<Name>Gears of War 2</Name>
+		<CopiesSoldinMillions>6,75</CopiesSoldinMillions>
 		<Publisher>Xbox Game Studios</Publisher>
 		<Developer>Epic Games</Developer>
 		<ReleaseDate>39759</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>5.1</IGNRating>
-	</record>
-	<record>
+		<IGNRating>5,1</IGNRating>
+	</Game>
+	<Game>
 		<Name>Gears of War 3</Name>
+		<CopiesSoldinMillions>6,22</CopiesSoldinMillions>
 		<Publisher>Xbox Game Studios</Publisher>
 		<Developer>Epic Games</Developer>
 		<ReleaseDate>40806</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Gears of War 4</Name>
+		<CopiesSoldinMillions>3,38</CopiesSoldinMillions>
 		<Publisher>Xbox Game Studios</Publisher>
 		<Developer>The Coalition</Developer>
 		<ReleaseDate>42654</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.2</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,2</IGNRating>
+	</Game>
+	<Game>
 		<Name>Gears 5</Name>
+		<CopiesSoldinMillions>3</CopiesSoldinMillions>
 		<Publisher>Xbox Game Studios</Publisher>
 		<Developer>The Coalition</Developer>
 		<ReleaseDate>43728</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.8</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,8</IGNRating>
+	</Game>
+	<Game>
 		<Name>Horizon Zero Dawn</Name>
+		<CopiesSoldinMillions>12</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Gurreilla Games</Developer>
 		<ReleaseDate>42794</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.3</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,3</IGNRating>
+	</Game>
+	<Game>
 		<Name>Killzone</Name>
+		<CopiesSoldinMillions>1</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Gurreilla Games</Developer>
 		<ReleaseDate>38292</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>NULL</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,4</IGNRating>
+	</Game>
+	<Game>
 		<Name>Killzone 2</Name>
+		<CopiesSoldinMillions>3,02</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Gurreilla Games</Developer>
 		<ReleaseDate>39870</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.4</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,4</IGNRating>
+	</Game>
+	<Game>
 		<Name>Killzone 3</Name>
+		<CopiesSoldinMillions>2,81</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Gurreilla Games</Developer>
 		<ReleaseDate>40596</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Killzone Shadow Fall</Name>
+		<CopiesSoldinMillions>3,02</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Gurreilla Games</Developer>
 		<ReleaseDate>41593</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>8</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Marvel's Spiderman</Name>
+		<CopiesSoldinMillions>13,5</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Insomniac Games</Developer>
 		<ReleaseDate>43350</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>8.7</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,7</IGNRating>
+	</Game>
+	<Game>
 		<Name>Borderlands</Name>
+		<CopiesSoldinMillions>5,77</CopiesSoldinMillions>
 		<Publisher>2K</Publisher>
 		<Developer>Gearbox Software</Developer>
 		<ReleaseDate>40106</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.8</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,8</IGNRating>
+	</Game>
+	<Game>
 		<Name>Borderlands 2</Name>
+		<CopiesSoldinMillions>6,95</CopiesSoldinMillions>
 		<Publisher>2K</Publisher>
 		<Developer>Gearbox Software</Developer>
 		<ReleaseDate>41170</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Borderlands: The Pre-Sequel</Name>
+		<CopiesSoldinMillions>1,72</CopiesSoldinMillions>
 		<Publisher>2K</Publisher>
 		<Developer>Gearbox Software</Developer>
 		<ReleaseDate>41926</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>8</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Borderlands 3</Name>
+		<CopiesSoldinMillions>8,3</CopiesSoldinMillions>
 		<Publisher>2K</Publisher>
 		<Developer>Gearbox Software</Developer>
 		<ReleaseDate>43721</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Half-Life 2</Name>
+		<CopiesSoldinMillions>6,5</CopiesSoldinMillions>
 		<Publisher>Valve Corporation</Publisher>
 		<Developer>Valve Corporation</Developer>
 		<ReleaseDate>38307</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.7</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,7</IGNRating>
+	</Game>
+	<Game>
 		<Name>inFamous</Name>
+		<CopiesSoldinMillions>3</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Sucker Punch Productions</Developer>
 		<ReleaseDate>39959</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>9.2</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,2</IGNRating>
+	</Game>
+	<Game>
 		<Name>inFamous 2</Name>
+		<CopiesSoldinMillions>1,87</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Sucker Punch Productions</Developer>
 		<ReleaseDate>40701</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>inFamous: Second Son</Name>
+		<CopiesSoldinMillions>3,01</CopiesSoldinMillions>
 		<Publisher>Sony Interactive Entertainment</Publisher>
 		<Developer>Sucker Punch Productions</Developer>
 		<ReleaseDate>41719</ReleaseDate>
 		<Multiplayer>False</Multiplayer>
-		<IGNRating>8.7</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,7</IGNRating>
+	</Game>
+	<Game>
 		<Name>Guitar Hero</Name>
+		<CopiesSoldinMillions>2,38</CopiesSoldinMillions>
 		<Publisher>RedOctane</Publisher>
 		<Developer>Harmonix</Developer>
 		<ReleaseDate>38664</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.2</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,2</IGNRating>
+	</Game>
+	<Game>
 		<Name>Guitar Hero II</Name>
+		<CopiesSoldinMillions>7,33</CopiesSoldinMillions>
 		<Publisher>Activision</Publisher>
 		<Developer>Harmonix</Developer>
 		<ReleaseDate>39028</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>9.5</IGNRating>
-	</record>
-	<record>
+		<IGNRating>9,5</IGNRating>
+	</Game>
+	<Game>
 		<Name>Guitar Hero III: Legends of Rock</Name>
+		<CopiesSoldinMillions>16,38</CopiesSoldinMillions>
 		<Publisher>Activision</Publisher>
 		<Developer>Neversoft Entertainment</Developer>
 		<ReleaseDate>39383</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.9</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,9</IGNRating>
+	</Game>
+	<Game>
 		<Name>Guitar Hero: World Tour</Name>
+		<CopiesSoldinMillions>10</CopiesSoldinMillions>
 		<Publisher>Activision</Publisher>
 		<Developer>Neversoft Entertainment</Developer>
 		<ReleaseDate>39747</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
 		<IGNRating>9</IGNRating>
-	</record>
-	<record>
+	</Game>
+	<Game>
 		<Name>Guitar Hero: Aerosmith</Name>
+		<CopiesSoldinMillions>4,29</CopiesSoldinMillions>
 		<Publisher>Activision</Publisher>
 		<Developer>Neversoft Entertainment</Developer>
 		<ReleaseDate>39626</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>7.6</IGNRating>
-	</record>
-	<record>
+		<IGNRating>7,6</IGNRating>
+	</Game>
+	<Game>
 		<Name>Guitar Hero: Metallica</Name>
+		<CopiesSoldinMillions>2,7</CopiesSoldinMillions>
 		<Publisher>Activision</Publisher>
 		<Developer>Neversoft Entertainment</Developer>
 		<ReleaseDate>39901</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.9</IGNRating>
-	</record>
-	<record>
+		<IGNRating>8,9</IGNRating>
+	</Game>
+	<Game>
 		<Name>Guitar Hero 5</Name>
+		<CopiesSoldinMillions>4,9</CopiesSoldinMillions>
 		<Publisher>Activision</Publisher>
 		<Developer>Neversoft Entertainment</Developer>
 		<ReleaseDate>40057</ReleaseDate>
 		<Multiplayer>True</Multiplayer>
-		<IGNRating>8.9</IGNRating>
-	</record>
+		<IGNRating>8,9</IGNRating>
+	</Game>
+</Games>
