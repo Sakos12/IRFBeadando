@@ -22,6 +22,7 @@ namespace IRFVideogames
             LoadGameDataXML();
             dataGridView1.DataSource = Games;
         }
+      
         private void LoadGameDataXML()
         {
             var xml = new XmlDocument();
@@ -48,6 +49,17 @@ namespace IRFVideogames
                 Games.Add(game);
 
             }
+        }
+        private void Szures()
+        {
+            gamelistBox.DataSource = (from x in Games
+                                      where x.Name.StartsWith(gamenamebox.Text)
+                                      select x).ToList();
+        }
+
+        private void gamenamebox_TextChanged(object sender, EventArgs e)
+        {
+            Szures();
         }
     }
 }

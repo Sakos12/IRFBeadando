@@ -29,34 +29,58 @@
         private void InitializeComponent()
         {
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.gamenamebox = new System.Windows.Forms.TextBox();
+            this.gamelistBox = new System.Windows.Forms.ListBox();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(114, 0);
+            this.dataGridView1.Location = new System.Drawing.Point(193, 0);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(1103, 772);
+            this.dataGridView1.Size = new System.Drawing.Size(1024, 772);
             this.dataGridView1.TabIndex = 0;
+            // 
+            // gamenamebox
+            // 
+            this.gamenamebox.Location = new System.Drawing.Point(13, 13);
+            this.gamenamebox.Name = "gamenamebox";
+            this.gamenamebox.Size = new System.Drawing.Size(156, 22);
+            this.gamenamebox.TabIndex = 1;
+            this.gamenamebox.TextChanged += new System.EventHandler(this.gamenamebox_TextChanged);
+            // 
+            // gamelistBox
+            // 
+            this.gamelistBox.FormattingEnabled = true;
+            this.gamelistBox.ItemHeight = 16;
+            this.gamelistBox.Location = new System.Drawing.Point(13, 71);
+            this.gamelistBox.Name = "gamelistBox";
+            this.gamelistBox.Size = new System.Drawing.Size(156, 340);
+            this.gamelistBox.TabIndex = 2;
             // 
             // Form3
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1216, 771);
+            this.Controls.Add(this.gamelistBox);
+            this.Controls.Add(this.gamenamebox);
             this.Controls.Add(this.dataGridView1);
             this.Name = "Form3";
             this.Text = "Form3";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
 
         private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.TextBox gamenamebox;
+        private System.Windows.Forms.ListBox gamelistBox;
     }
 }
