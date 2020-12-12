@@ -12,7 +12,7 @@ using System.Xml;
 
 namespace IRFVideogames
 {
-  
+
     public partial class Form3 : Form
     {
         BindingList<GameData> Games = new BindingList<GameData>();
@@ -21,8 +21,9 @@ namespace IRFVideogames
             InitializeComponent();
             LoadGameDataXML();
             dataGridView1.DataSource = Games;
+            Evszamlista()
         }
-      
+
         private void LoadGameDataXML()
         {
             var xml = new XmlDocument();
@@ -50,16 +51,49 @@ namespace IRFVideogames
 
             }
         }
-        private void Szures()
+        private void Evszamlista()
         {
-            gamelistBox.DataSource = (from x in Games
-                                      where x.Name.StartsWith(gamenamebox.Text)
-                                      select x).ToList();
+            for (int i = 2000; i <= 2020; i++)
+            {
+                gamelistBox.Items.Add(i);
+            }
         }
 
         private void gamenamebox_TextChanged(object sender, EventArgs e)
         {
-            Szures();
+            
+        }
+
+        private void gamelistBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            var datum = gamelistBox.SelectedItem.ToString();
+            var xml = new XmlDocument();
+            xml.Load("videogames.xml");
+            foreach (XmlElement element in xml.DocumentElement)
+            {
+                var game = new GameData();
+
+                var firstchildElement = (XmlElement)element.ChildNodes[0];
+                game.Name = firstchildElement.InnerText;
+                var secondchildElement = (XmlElement)element.ChildNodes[1];
+                game.CopiesSold = double.Parse(secondchildElement.InnerText);
+                var thirdchildElement = (XmlElement)element.ChildNodes[2];
+                game.Publisher = thirdchildElement.InnerText;
+                var fourthchildElement = (XmlElement)element.ChildNodes[3];
+                game.Developer = fourthchildElement.InnerText;
+                var fifthchildElement = (XmlElement)element.ChildNodes[4];
+                double d = double.Parse(fifthchildElement.InnerText);
+                game.ReleaseDate = DateTime.FromOADate(d);
+                var sixthchildElement = (XmlElement)element.ChildNodes[5];
+                game.Multiplayer = bool.Parse(sixthchildElement.InnerText);
+                var seventhchildElement = (XmlElement)element.ChildNodes[6];
+                game.IGNRating = double.Parse(seventhchildElement.InnerText);
+                if (game.ReleaseDate.ToString() == datum)
+                {
+                    Games.Add(game);
+                }
+
+            }
         }
     }
 }

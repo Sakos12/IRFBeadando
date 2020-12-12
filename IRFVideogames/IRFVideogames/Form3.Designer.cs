@@ -60,6 +60,7 @@
             this.gamelistBox.Name = "gamelistBox";
             this.gamelistBox.Size = new System.Drawing.Size(156, 340);
             this.gamelistBox.TabIndex = 2;
+            this.gamelistBox.SelectedIndexChanged += new System.EventHandler(this.gamelistBox_SelectedIndexChanged);
             // 
             // Form3
             // 
