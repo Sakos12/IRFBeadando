@@ -50,6 +50,17 @@ namespace IRFVideogames
         private void button1_Click(object sender, EventArgs e)
         {
             SaveFileDialog sfd = new SaveFileDialog();
+            sfd.Filter = "Comm Seperated Values (*.csv)|*.csv";
+            sfd.DefaultExt = "csv";
+            sfd.AddExtension = true;
+            if (sfd.ShowDialog() != DialogResult.OK) return;
+            using (StreamWriter sw = new StreamWriter(sfd.FileName, false, Encoding.UTF8))
+            {
+                foreach (var jatek in Games)
+                {
+
+                }
+            }
                
         }
     }
