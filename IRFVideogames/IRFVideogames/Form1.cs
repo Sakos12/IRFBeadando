@@ -108,8 +108,8 @@ namespace IRFVideogames
             pen.EndCap = LineCap.RoundAnchor;
             e.Graphics.DrawLine(pen, 200, 380, 200, 255);
 
-            
-           
+            e.Graphics.DrawLine(pen, 525, 440, 525, 355);
+
             e.Graphics.DrawLine(pen, 840, 380, 840, 255);
         }
     }

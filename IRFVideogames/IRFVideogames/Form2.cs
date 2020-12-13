@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -110,6 +111,57 @@ namespace IRFVideogames
                 Games.Remove(game);
             }
             dataGridView1.DataSource = Games;
+        }
+
+        private void home1_Click(object sender, EventArgs e)
+        {
+            Form1 f1 = new Form1();
+            f1.Show();
+            Hide();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            SaveFileDialog sfd = new SaveFileDialog();
+            sfd.Filter = "Comm Seperated Values (*.csv)|*.csv";
+            sfd.DefaultExt = "csv";
+            sfd.AddExtension = true;
+            if (sfd.ShowDialog() != DialogResult.OK) return;
+            using (StreamWriter sw = new StreamWriter(sfd.FileName, false, Encoding.UTF8))
+            {
+                sw.Write("Name");
+                sw.Write(";");
+                sw.Write("Copies Sold in Millions");
+                sw.Write(";");
+                sw.Write("Publisher");
+                sw.Write(";");
+                sw.Write("Developer");
+                sw.Write(";");
+                sw.Write("Release Date");
+                sw.Write(";");
+                sw.Write("Multiplayer");
+                sw.Write(";");
+                sw.Write("IGN Rating");
+                sw.WriteLine();
+                foreach (var jatek in Games)
+                {
+                    sw.Write(jatek.Name);
+                    sw.Write(";");
+                    sw.Write(jatek.CopiesSold);
+                    sw.Write(";");
+                    sw.Write(jatek.Publisher);
+                    sw.Write(";");
+                    sw.Write(jatek.Developer);
+                    sw.Write(";");
+                    sw.Write(jatek.ReleaseDate.ToString("yyyy/MM/dd"));
+                    sw.Write(";");
+                    sw.Write(jatek.Multiplayer);
+                    sw.Write(";");
+                    sw.Write(jatek.IGNRating);
+                    sw.WriteLine();
+
+                }
+            }
         }
     }
 }

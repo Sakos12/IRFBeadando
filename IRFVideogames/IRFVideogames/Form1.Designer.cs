@@ -34,6 +34,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.szurogomb1 = new IRFVideogames.Entities.Szurogomb();
             this.controller1 = new IRFVideogames.Entities.Controller();
+            this.label3 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // button1
@@ -72,8 +73,9 @@
             // label1
             // 
             this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.label1.BackColor = System.Drawing.Color.OliveDrab;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label1.Location = new System.Drawing.Point(28, 192);
+            this.label1.Location = new System.Drawing.Point(12, 192);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(496, 104);
             this.label1.TabIndex = 7;
@@ -84,10 +86,11 @@
             // label2
             // 
             this.label2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.label2.BackColor = System.Drawing.Color.OliveDrab;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.label2.Location = new System.Drawing.Point(902, 192);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(432, 104);
+            this.label2.Size = new System.Drawing.Size(478, 104);
             this.label2.TabIndex = 8;
             this.label2.Text = "Kattints ide, ha szeretnéd megjelenési évek, illetve névszerint szűrni a videóját" +
     "ékokat!";
@@ -96,7 +99,8 @@
             // szurogomb1
             // 
             this.szurogomb1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.szurogomb1.Location = new System.Drawing.Point(1017, 480);
+            this.szurogomb1.Image = global::IRFVideogames.Properties.Resources.list3;
+            this.szurogomb1.Location = new System.Drawing.Point(1045, 480);
             this.szurogomb1.Name = "szurogomb1";
             this.szurogomb1.Size = new System.Drawing.Size(200, 200);
             this.szurogomb1.TabIndex = 9;
@@ -107,12 +111,24 @@
             // controller1
             // 
             this.controller1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.controller1.Location = new System.Drawing.Point(161, 480);
+            this.controller1.Image = global::IRFVideogames.Properties.Resources.playstat;
+            this.controller1.Location = new System.Drawing.Point(138, 480);
             this.controller1.Name = "controller1";
             this.controller1.Size = new System.Drawing.Size(200, 200);
             this.controller1.TabIndex = 5;
             this.controller1.UseVisualStyleBackColor = true;
             this.controller1.Click += new System.EventHandler(this.controller1_Click);
+            // 
+            // label3
+            // 
+            this.label3.BackColor = System.Drawing.Color.OliveDrab;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.label3.Location = new System.Drawing.Point(514, 296);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(381, 87);
+            this.label3.TabIndex = 10;
+            this.label3.Text = "Ide kattintva exportálhatod az összes adatot a játékokról CSV formátumba!";
+            this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // Form1
             // 
@@ -120,6 +136,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Green;
             this.ClientSize = new System.Drawing.Size(1419, 692);
+            this.Controls.Add(this.label3);
             this.Controls.Add(this.szurogomb1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -140,6 +157,7 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private Entities.Szurogomb szurogomb1;
+        private System.Windows.Forms.Label label3;
     }
 }
 

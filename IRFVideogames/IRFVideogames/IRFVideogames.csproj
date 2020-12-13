@@ -122,6 +122,8 @@
     <Content Include="Images\playstat.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <None Include="Resources\list3.png" />
+    <None Include="Resources\playstat.png" />
     <Content Include="videogames.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>

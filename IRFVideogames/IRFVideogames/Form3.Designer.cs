@@ -118,6 +118,7 @@
             this.home1.TabIndex = 7;
             this.home1.Text = "Kezdőlap";
             this.home1.UseVisualStyleBackColor = false;
+            this.home1.Click += new System.EventHandler(this.home1_Click);
             // 
             // Form3
             // 
