@@ -28,20 +28,13 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.VideogameDataSet = new System.Data.DataSet();
             this.button1 = new System.Windows.Forms.Button();
             this.cím = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.szurogomb1 = new IRFVideogames.Entities.Szurogomb();
             this.controller1 = new IRFVideogames.Entities.Controller();
-            ((System.ComponentModel.ISupportInitialize)(this.VideogameDataSet)).BeginInit();
             this.SuspendLayout();
-            // 
-            // VideogameDataSet
-            // 
-            this.VideogameDataSet.DataSetName = "VideogameDataSet";
             // 
             // button1
             // 
@@ -130,19 +123,16 @@
             this.Name = "Form1";
             this.Text = "Form1";
             this.TransparencyKey = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            ((System.ComponentModel.ISupportInitialize)(this.VideogameDataSet)).EndInit();
             this.ResumeLayout(false);
 
         }
 
         #endregion
-        private System.Data.DataSet VideogameDataSet;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label cím;
         private Entities.Controller controller1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.ComponentModel.BackgroundWorker backgroundWorker1;
         private Entities.Szurogomb szurogomb1;
     }
 }

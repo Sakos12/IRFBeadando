@@ -54,7 +54,53 @@ namespace IRFVideogames
             BindingList<GameData> GamestoRemove = new BindingList<GameData>();
             foreach (GameData game in Games)
             {
-                 if (game.IGNRating < 8.0 )
+                if (game.IGNRating < 9.0)
+                {
+                    GamestoRemove.Add(game);
+                }
+            }
+            foreach (GameData game in GamestoRemove)
+            {
+                Games.Remove(game);
+            }
+            dataGridView1.DataSource = Games;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            dataGridView1.Rows.Clear();
+            dataGridView1.Refresh();
+            LoadGameDataXML();
+           
+            dataGridView1.DataSource = Games;
+        }
+
+        private void datebtn_Click(object sender, EventArgs e)
+        {
+            BindingList<GameData> GamestoRemove = new BindingList<GameData>();
+            DateTime date = new DateTime(2015, 1, 1, 0, 0, 0);
+            foreach (GameData game in Games)
+            {
+                int hasonlit = DateTime.Compare(game.ReleaseDate, date);
+                if (hasonlit<0)
+                {
+                    GamestoRemove.Add(game);
+                }
+            }
+            foreach (GameData game in GamestoRemove)
+            {
+                Games.Remove(game);
+            }
+            dataGridView1.DataSource = Games;
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            BindingList<GameData> GamestoRemove = new BindingList<GameData>();
+            DateTime date = new DateTime(2015, 1, 1, 0, 0, 0);
+            foreach (GameData game in Games)
+            {
+                if (!game.Multiplayer)
                 {
                     GamestoRemove.Add(game);
                 }
