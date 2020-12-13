@@ -38,6 +38,7 @@
             // 
             // button1
             // 
+            this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.button1.BackColor = System.Drawing.Color.GreenYellow;
             this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button1.FlatAppearance.BorderColor = System.Drawing.Color.Aqua;
@@ -55,6 +56,7 @@
             // 
             // cím
             // 
+            this.cím.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.cím.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.cím.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.cím.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -69,6 +71,7 @@
             // 
             // label1
             // 
+            this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.label1.Location = new System.Drawing.Point(28, 192);
             this.label1.Name = "label1";
@@ -80,6 +83,7 @@
             // 
             // label2
             // 
+            this.label2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.label2.Location = new System.Drawing.Point(902, 192);
             this.label2.Name = "label2";
@@ -91,7 +95,8 @@
             // 
             // szurogomb1
             // 
-            this.szurogomb1.Location = new System.Drawing.Point(1016, 490);
+            this.szurogomb1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.szurogomb1.Location = new System.Drawing.Point(1017, 480);
             this.szurogomb1.Name = "szurogomb1";
             this.szurogomb1.Size = new System.Drawing.Size(200, 200);
             this.szurogomb1.TabIndex = 9;
@@ -101,7 +106,8 @@
             // 
             // controller1
             // 
-            this.controller1.Location = new System.Drawing.Point(161, 490);
+            this.controller1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.controller1.Location = new System.Drawing.Point(161, 480);
             this.controller1.Name = "controller1";
             this.controller1.Size = new System.Drawing.Size(200, 200);
             this.controller1.TabIndex = 5;
