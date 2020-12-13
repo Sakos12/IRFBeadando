@@ -31,11 +31,11 @@
             this.VideogameDataSet = new System.Data.DataSet();
             this.button1 = new System.Windows.Forms.Button();
             this.cím = new System.Windows.Forms.Label();
-            this.controller1 = new IRFVideogames.Entities.Controller();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.szurogomb1 = new IRFVideogames.Entities.Szurogomb();
+            this.controller1 = new IRFVideogames.Entities.Controller();
             ((System.ComponentModel.ISupportInitialize)(this.VideogameDataSet)).BeginInit();
             this.SuspendLayout();
             // 
@@ -66,7 +66,7 @@
             this.cím.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.cím.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cím.Font = new System.Drawing.Font("Times New Roman", 25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.cím.Location = new System.Drawing.Point(147, 33);
+            this.cím.Location = new System.Drawing.Point(138, 9);
             this.cím.Name = "cím";
             this.cím.Size = new System.Drawing.Size(1061, 164);
             this.cím.TabIndex = 2;
@@ -74,19 +74,10 @@
     " részét hivatásos bemutatni!";
             this.cím.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // controller1
-            // 
-            this.controller1.Location = new System.Drawing.Point(166, 441);
-            this.controller1.Name = "controller1";
-            this.controller1.Size = new System.Drawing.Size(200, 200);
-            this.controller1.TabIndex = 5;
-            this.controller1.UseVisualStyleBackColor = true;
-            this.controller1.Click += new System.EventHandler(this.controller1_Click);
-            // 
             // label1
             // 
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label1.Location = new System.Drawing.Point(67, 232);
+            this.label1.Location = new System.Drawing.Point(67, 212);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(432, 137);
             this.label1.TabIndex = 7;
@@ -107,12 +98,22 @@
             // 
             // szurogomb1
             // 
-            this.szurogomb1.Location = new System.Drawing.Point(1008, 430);
+            this.szurogomb1.Location = new System.Drawing.Point(1008, 463);
             this.szurogomb1.Name = "szurogomb1";
             this.szurogomb1.Size = new System.Drawing.Size(200, 200);
             this.szurogomb1.TabIndex = 9;
             this.szurogomb1.Text = "szurogomb1";
             this.szurogomb1.UseVisualStyleBackColor = true;
+            this.szurogomb1.Click += new System.EventHandler(this.szurogomb1_Click);
+            // 
+            // controller1
+            // 
+            this.controller1.Location = new System.Drawing.Point(161, 463);
+            this.controller1.Name = "controller1";
+            this.controller1.Size = new System.Drawing.Size(200, 200);
+            this.controller1.TabIndex = 5;
+            this.controller1.UseVisualStyleBackColor = true;
+            this.controller1.Click += new System.EventHandler(this.controller1_Click);
             // 
             // Form1
             // 

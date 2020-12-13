@@ -46,6 +46,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abstractions\AbsArrow.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="Abstractions\Gombabstract.cs">
       <SubType>Component</SubType>
     </Compile>
@@ -117,10 +120,10 @@
     <None Include="Resources\list1.png" />
     <None Include="Resources\list2.png" />
     <Content Include="Images\list.png">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Images\playstat.png">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="videogames.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

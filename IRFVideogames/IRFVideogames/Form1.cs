@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Drawing.Drawing2D;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -20,9 +21,10 @@ namespace IRFVideogames
         public Form1()
         {
             InitializeComponent();
-           
+            this.Paint += new System.Windows.Forms.PaintEventHandler(this.Form1_Paint);
+
         }
-        
+
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -66,19 +68,19 @@ namespace IRFVideogames
 
                 }
             }
-               
+
         }
         Controller controller = new Controller();
 
 
         private void button2_Click(object sender, EventArgs e)
         {
-           
+
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-         
+
         }
 
         private void controller1_Click(object sender, EventArgs e)
@@ -90,10 +92,23 @@ namespace IRFVideogames
 
         private void controller2_Click(object sender, EventArgs e)
         {
+
+        }
+
+        private void szurogomb1_Click(object sender, EventArgs e)
+        {
             Form3 f3 = new Form3();
             f3.Show();
             Hide();
         }
-        
+        private void Form1_Paint(object sender, System.Windows.Forms.PaintEventArgs e)
+        {
+            Pen pen = new Pen(Color.FromArgb(255, 0, 0, 255), 8);
+            pen.StartCap = LineCap.ArrowAnchor;
+            pen.EndCap = LineCap.RoundAnchor;
+            e.Graphics.DrawLine(pen, 200, 150, 200, 100);
+
+        }
     }
 }
+

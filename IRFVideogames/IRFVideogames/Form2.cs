@@ -51,12 +51,17 @@ namespace IRFVideogames
 
         private void button1_Click(object sender, EventArgs e)
         {
+            BindingList<GameData> GamestoRemove = new BindingList<GameData>();
             foreach (GameData game in Games)
             {
                  if (game.IGNRating < 8.0 )
                 {
-                    Games.Remove(game);
+                    GamestoRemove.Add(game);
                 }
+            }
+            foreach (GameData game in GamestoRemove)
+            {
+                Games.Remove(game);
             }
             dataGridView1.DataSource = Games;
         }
