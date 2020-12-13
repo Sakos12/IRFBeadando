@@ -77,20 +77,20 @@
             // label1
             // 
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label1.Location = new System.Drawing.Point(67, 212);
+            this.label1.Location = new System.Drawing.Point(28, 192);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(432, 137);
+            this.label1.Size = new System.Drawing.Size(496, 104);
             this.label1.TabIndex = 7;
-            this.label1.Text = "Kattints ide, ha csupán meg szeretnéd nézni a gyűjteményt minden módosítás, vagy " +
-    "szűrés nélkül!";
+            this.label1.Text = "Kattints ide, ha meg szeretnéd nézni a gyűjteményt, illetve eltávolítani a régebb" +
+    "i és kevésbé jól értékelt játékokat!";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label2
             // 
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label2.Location = new System.Drawing.Point(889, 243);
+            this.label2.Location = new System.Drawing.Point(902, 192);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(432, 137);
+            this.label2.Size = new System.Drawing.Size(432, 104);
             this.label2.TabIndex = 8;
             this.label2.Text = "Kattints ide, ha szeretnéd megjelenési évek, illetve névszerint szűrni a videóját" +
     "ékokat!";
@@ -98,7 +98,7 @@
             // 
             // szurogomb1
             // 
-            this.szurogomb1.Location = new System.Drawing.Point(1008, 463);
+            this.szurogomb1.Location = new System.Drawing.Point(1016, 490);
             this.szurogomb1.Name = "szurogomb1";
             this.szurogomb1.Size = new System.Drawing.Size(200, 200);
             this.szurogomb1.TabIndex = 9;
@@ -108,7 +108,7 @@
             // 
             // controller1
             // 
-            this.controller1.Location = new System.Drawing.Point(161, 463);
+            this.controller1.Location = new System.Drawing.Point(161, 490);
             this.controller1.Name = "controller1";
             this.controller1.Size = new System.Drawing.Size(200, 200);
             this.controller1.TabIndex = 5;

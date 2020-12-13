@@ -46,19 +46,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Abstractions\AbsArrow.cs">
-      <SubType>Component</SubType>
-    </Compile>
     <Compile Include="Abstractions\Gombabstract.cs">
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="Entities\Arrow.cs">
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Entities\Controller.cs">
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Entities\GameData.cs" />
+    <Compile Include="Entities\Home.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="Entities\Szurogomb.cs">
       <SubType>Component</SubType>
     </Compile>

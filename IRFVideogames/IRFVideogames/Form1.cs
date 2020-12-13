@@ -103,11 +103,14 @@ namespace IRFVideogames
         }
         private void Form1_Paint(object sender, System.Windows.Forms.PaintEventArgs e)
         {
-            Pen pen = new Pen(Color.FromArgb(255, 0, 0, 255), 8);
+            Pen pen = new Pen(Color.FromArgb(100, 180, 0, 255), 12);
             pen.StartCap = LineCap.ArrowAnchor;
             pen.EndCap = LineCap.RoundAnchor;
-            e.Graphics.DrawLine(pen, 200, 150, 200, 100);
+            e.Graphics.DrawLine(pen, 200, 380, 200, 255);
 
+            
+           
+            e.Graphics.DrawLine(pen, 840, 380, 840, 255);
         }
     }
 }

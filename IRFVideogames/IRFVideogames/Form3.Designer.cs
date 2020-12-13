@@ -32,7 +32,9 @@
             this.gamenamebox = new System.Windows.Forms.TextBox();
             this.yearlistBox = new System.Windows.Forms.ListBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.home1 = new IRFVideogames.Entities.Home();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -48,7 +50,7 @@
             // 
             // gamenamebox
             // 
-            this.gamenamebox.Location = new System.Drawing.Point(12, 473);
+            this.gamenamebox.Location = new System.Drawing.Point(9, 536);
             this.gamenamebox.Name = "gamenamebox";
             this.gamenamebox.Size = new System.Drawing.Size(203, 22);
             this.gamenamebox.TabIndex = 1;
@@ -66,7 +68,8 @@
             // 
             // label1
             // 
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.label1.BackColor = System.Drawing.Color.Gold;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.label1.Location = new System.Drawing.Point(331, 9);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(692, 59);
@@ -76,22 +79,48 @@
     " begépelni a szövegdobozba.";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // button1
+            // label2
             // 
-            this.button1.Location = new System.Drawing.Point(12, 534);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(203, 23);
-            this.button1.TabIndex = 4;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.label2.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.label2.Location = new System.Drawing.Point(4, 29);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(211, 39);
+            this.label2.TabIndex = 5;
+            this.label2.Text = "Itt tudod kiválasztani a megjelenési évet!";
+            this.label2.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            // 
+            // label3
+            // 
+            this.label3.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.label3.Location = new System.Drawing.Point(9, 477);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(203, 56);
+            this.label3.TabIndex = 6;
+            this.label3.Text = "Itt tudsz név szerint szűrni! (Kezdőbetűt vesz figyelmbe, és a nagybetű is számít" +
+    "!)";
+            this.label3.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            // 
+            // home1
+            // 
+            this.home1.BackColor = System.Drawing.Color.Coral;
+            this.home1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.home1.Location = new System.Drawing.Point(12, 630);
+            this.home1.Name = "home1";
+            this.home1.Size = new System.Drawing.Size(200, 120);
+            this.home1.TabIndex = 7;
+            this.home1.Text = "Kezdőlap";
+            this.home1.UseVisualStyleBackColor = false;
             // 
             // Form3
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1216, 771);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.home1);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.yearlistBox);
             this.Controls.Add(this.gamenamebox);
@@ -110,6 +139,8 @@
         private System.Windows.Forms.TextBox gamenamebox;
         private System.Windows.Forms.ListBox yearlistBox;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label3;
+        private Entities.Home home1;
     }
 }
