@@ -70,18 +70,17 @@ namespace IRFVideogames
             }
 
         }
-        Controller controller = new Controller();
 
 
-        private void button2_Click(object sender, EventArgs e)
+       /* private void button2_Click(object sender, EventArgs e)
         {
 
-        }
+        }*/
 
-        private void button3_Click(object sender, EventArgs e)
+        /*private void button3_Click(object sender, EventArgs e)
         {
 
-        }
+        }*/
 
         private void controller1_Click(object sender, EventArgs e)
         {
@@ -90,10 +89,10 @@ namespace IRFVideogames
             Hide();
         }
 
-        private void controller2_Click(object sender, EventArgs e)
+       /* private void controller2_Click(object sender, EventArgs e)
         {
 
-        }
+        }*/
 
         private void szurogomb1_Click(object sender, EventArgs e)
         {
