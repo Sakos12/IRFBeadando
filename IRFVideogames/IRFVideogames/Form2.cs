@@ -49,6 +49,14 @@ namespace IRFVideogames
 
             }
         }
+        private void button2_Click(object sender, EventArgs e)
+        {
+            dataGridView1.Rows.Clear();
+            dataGridView1.Refresh();
+            LoadGameDataXML();
+
+            dataGridView1.DataSource = Games;
+        }
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -67,14 +75,7 @@ namespace IRFVideogames
             dataGridView1.DataSource = Games;
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            dataGridView1.Rows.Clear();
-            dataGridView1.Refresh();
-            LoadGameDataXML();
-           
-            dataGridView1.DataSource = Games;
-        }
+ 
 
         private void datebtn_Click(object sender, EventArgs e)
         {
@@ -98,7 +99,6 @@ namespace IRFVideogames
         private void button1_Click_1(object sender, EventArgs e)
         {
             BindingList<GameData> GamestoRemove = new BindingList<GameData>();
-            DateTime date = new DateTime(2015, 1, 1, 0, 0, 0);
             foreach (GameData game in Games)
             {
                 if (!game.Multiplayer)
@@ -111,13 +111,6 @@ namespace IRFVideogames
                 Games.Remove(game);
             }
             dataGridView1.DataSource = Games;
-        }
-
-        private void home1_Click(object sender, EventArgs e)
-        {
-            Form1 f1 = new Form1();
-            f1.Show();
-            Hide();
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -162,6 +155,12 @@ namespace IRFVideogames
 
                 }
             }
+        }
+        private void home1_Click(object sender, EventArgs e)
+        {
+            Form1 f1 = new Form1();
+            f1.Show();
+            Hide();
         }
     }
 }
